@@ -558,6 +558,15 @@ export default function Index() {
           </p>
         </TextSection>
 
+        {/* CTA Before Why This Technology Works */}
+        <div className="cta-section">
+          <div className="cta-container">
+            <div className="cta-group">
+              <CTAButton href="https://www.ovaliss.com/products/resculpt">Check ReSculpt Availability</CTAButton>
+            </div>
+          </div>
+        </div>
+
         {/* Why This Technology Works */}
         <TextSection>
           <h2>Why This Technology Works (And Why Most Devices Don't)</h2>
@@ -744,7 +753,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton onClick={handleCTA}>Check ReSculpt Availability</CTAButton>
+              <CTAButton href="https://www.ovaliss.com/products/resculpt">Check ReSculpt Availability</CTAButton>
             </div>
           </div>
         </div>
@@ -802,7 +811,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton onClick={handleCTA}>Check ReSculpt Availability</CTAButton>
+              <CTAButton href="https://www.ovaliss.com/products/resculpt">Check ReSculpt Availability</CTAButton>
             </div>
           </div>
         </div>
