@@ -118,3 +118,112 @@
     white-space: pre;
   }
 }
+
+/* Editorial Header */
+.editorial-header {
+  @apply w-full bg-white py-12 px-4 sm:py-16 sm:px-6 border-b border-gray-200;
+}
+
+.header-content {
+  @apply max-w-2xl mx-auto text-center;
+}
+
+.publication-title {
+  @apply text-3xl sm:text-4xl font-serif font-bold text-gray-900 mb-3;
+}
+
+.publication-meta {
+  @apply text-sm sm:text-base font-medium text-gray-600 uppercase tracking-wide mb-2;
+}
+
+.publication-date {
+  @apply text-sm text-gray-500;
+}
+
+/* Image Section */
+.image-section {
+  @apply w-full bg-white py-8 sm:py-12;
+}
+
+.section-image {
+  @apply w-full h-auto object-cover block;
+}
+
+/* Text Section */
+.text-section {
+  @apply w-full bg-white py-8 sm:py-12 px-4 sm:px-6;
+}
+
+.text-content {
+  @apply max-w-2xl mx-auto text-gray-700 leading-relaxed;
+}
+
+.text-content h2 {
+  @apply text-2xl sm:text-3xl font-serif font-bold text-gray-900 mb-4 sm:mb-6;
+}
+
+.text-content h3 {
+  @apply text-xl sm:text-2xl font-serif font-semibold text-gray-800 mb-3 sm:mb-4 mt-8 sm:mt-10;
+}
+
+.text-content p {
+  @apply mb-4 sm:mb-6 text-base sm:text-lg leading-relaxed;
+}
+
+.text-content ul,
+.text-content ol {
+  @apply mb-6 ml-6 space-y-2;
+}
+
+.text-content li {
+  @apply text-base sm:text-lg;
+}
+
+/* CTA Section */
+.cta-section {
+  @apply w-full bg-white py-12 sm:py-16 px-4 sm:px-6;
+}
+
+.cta-container {
+  @apply max-w-2xl mx-auto;
+}
+
+.cta-group {
+  @apply flex flex-col sm:flex-row gap-4 justify-center items-center;
+}
+
+/* CTA Button */
+.cta-button {
+  @apply inline-block px-8 sm:px-10 py-3 sm:py-4 bg-gray-900 text-white font-semibold rounded-sm text-base sm:text-lg transition-colors duration-200 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900;
+}
+
+.cta-button:active {
+  @apply bg-gray-700;
+}
+
+/* Editorial Footer */
+.editorial-footer {
+  @apply w-full bg-white border-t border-gray-200 py-12 sm:py-16 px-4 sm:px-6;
+}
+
+.footer-content {
+  @apply max-w-2xl mx-auto text-center space-y-4;
+}
+
+.footer-disclaimer,
+.footer-notice {
+  @apply text-sm text-gray-600 leading-relaxed;
+}
+
+.footer-disclaimer {
+  @apply italic;
+}
+
+/* Article Container */
+.article-container {
+  @apply w-full min-h-screen flex flex-col bg-white;
+}
+
+.article-main {
+  @apply flex-1 w-full;
+}
