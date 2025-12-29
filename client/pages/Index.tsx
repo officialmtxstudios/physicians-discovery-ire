@@ -449,8 +449,8 @@ export default function Index() {
 
         {/* IMAGE 10 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160636-112173f31c77?w=1200&q=80"
-          alt="Linda's results"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6ad58a7d56d5413b9bc40c7aef168266"
+          alt="Woman in fitness pose showing toned abdomen and strength"
         />
 
         {/* Linda Notes */}
