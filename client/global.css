@@ -242,7 +242,7 @@
 
 /* Editorial Footer */
 .editorial-footer {
-  @apply w-full bg-white border-t border-gray-200 py-12 sm:py-16 px-4 sm:px-6;
+  @apply w-full bg-white border-t border-gray-200 py-8 sm:py-10 px-4 sm:px-6;
 }
 
 .footer-content {
