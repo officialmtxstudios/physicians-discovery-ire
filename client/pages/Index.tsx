@@ -171,26 +171,22 @@ export default function Index() {
             problem:
           </p>
           <h3>Diet and exercise?</h3>
+          <p>They work beautifully for metabolically active tissue.</p>
           <p>
-            They work beautifully for metabolically active tissue.
-          </p>
-          <p>
-            But they can't "wake up" tissue that's already shut down. You'll lose
-            fat everywhere else while that lower belly remains unchanged.
+            But they can't "wake up" tissue that's already shut down. You'll
+            lose fat everywhere else while that lower belly remains unchanged.
           </p>
           <h3>Core exercises and planks?</h3>
-          <p>
-            They strengthen the muscle underneath.
-          </p>
+          <p>They strengthen the muscle underneath.</p>
           <p>
             But if the fascia above it is rigid and blood flow is restricted,
-            you're essentially strengthening a muscle that's trapped under dormant
-            tissue.
+            you're essentially strengthening a muscle that's trapped under
+            dormant tissue.
           </p>
           <h3>Topical creams and treatments?</h3>
           <p>
-            They can't penetrate deep enough to reach the fascial layer or affect
-            cellular metabolism.
+            They can't penetrate deep enough to reach the fascial layer or
+            affect cellular metabolism.
           </p>
           <p>
             They work on the surface while the problem exists three layers deep.
@@ -316,27 +312,19 @@ export default function Index() {
             uses Multi-Layer Stimulation Reset™ technology.
           </p>
           <p>
-            This system delivers layered frequencies designed to reach each tissue
-            type's specific resonance point.
+            This system delivers layered frequencies designed to reach each
+            tissue type's specific resonance point.
           </p>
           <p>Think of it like this:</p>
-          <p>
-            Your skin tissue responds to one frequency.
-          </p>
-          <p>
-            Your fascial tissue responds to another.
-          </p>
+          <p>Your skin tissue responds to one frequency.</p>
+          <p>Your fascial tissue responds to another.</p>
           <p>Your muscle tissue responds to a third.</p>
           <p>
             Most devices use a single frequency (usually targeting surface-level
             skin or basic muscle contraction).
           </p>
-          <p>
-            That's why they feel nice but don't create lasting change.
-          </p>
-          <p>
-            ReSculpt delivers all three frequencies simultaneously.
-          </p>
+          <p>That's why they feel nice but don't create lasting change.</p>
+          <p>ReSculpt delivers all three frequencies simultaneously.</p>
           <p>
             It penetrates through the skin layer, activates the fascial layer,
             and engages the muscle layer—all in one treatment session.
@@ -361,8 +349,8 @@ export default function Index() {
             problem years before anyone else.
           </p>
           <p>
-            But the technology has advanced enough that this level of stimulation
-            can now be recreated safely at home.
+            But the technology has advanced enough that this level of
+            stimulation can now be recreated safely at home.
           </p>
         </TextSection>
 
@@ -384,21 +372,19 @@ export default function Index() {
             actually paying for.
           </p>
           <p>
-            You're not paying for them to "work harder" on your fat or "burn more
-            calories."
+            You're not paying for them to "work harder" on your fat or "burn
+            more calories."
           </p>
           <p>You're paying for tissue re-signaling.</p>
           <p>
             Clinics understood the signaling problem years before anyone else.
           </p>
           <p>
-            They knew that stubborn areas weren't stubborn because of excess fat,
-            they were stubborn because the tissue had stopped responding to
+            They knew that stubborn areas weren't stubborn because of excess
+            fat, they were stubborn because the tissue had stopped responding to
             metabolic signals.
           </p>
-          <p>
-            So they developed multi-layer stimulation technology.
-          </p>
+          <p>So they developed multi-layer stimulation technology.</p>
           <p>
             This technology could "wake up" dormant tissue by delivering precise
             frequencies to fat, fascia, and muscle simultaneously.
@@ -413,9 +399,7 @@ export default function Index() {
 
         {/* Clinic Cost Explanation */}
         <TextSection>
-          <p>
-            That's why clinics get results when everything else fails.
-          </p>
+          <p>That's why clinics get results when everything else fails.</p>
           <p>
             Not because they have magic machines—but because they finally
             addressed the actual problem.
@@ -429,22 +413,16 @@ export default function Index() {
             multiple sessions at £300-£1,000 each.
           </p>
           <p>
-            But advances in tissue-penetration technology and frequency modulation
-            have changed everything.
+            But advances in tissue-penetration technology and frequency
+            modulation have changed everything.
           </p>
           <p>
-            The same three-layer stimulation can now be delivered in a device you
-            control at home.
+            The same three-layer stimulation can now be delivered in a device
+            you control at home.
           </p>
-          <p>
-            The mechanism is identical.
-          </p>
-          <p>
-            The delivery system has simply become accessible.
-          </p>
-          <p>
-            ReSculpt doesn't "replicate" clinic technology.
-          </p>
+          <p>The mechanism is identical.</p>
+          <p>The delivery system has simply become accessible.</p>
+          <p>ReSculpt doesn't "replicate" clinic technology.</p>
           <p>
             It uses the same core principle that makes clinics work, now refined
             for safe, consistent at-home use.
@@ -579,8 +557,8 @@ export default function Index() {
             fascial tissue had noticeably improved in mobility.
           </p>
           <p>
-            The "stuck" quality was gone. Her transverse abdominis engagement was
-            visibly stronger.
+            The "stuck" quality was gone. Her transverse abdominis engagement
+            was visibly stronger.
           </p>
           <p>The tissue had quite literally woken back up.</p>
         </TextSection>
@@ -650,9 +628,7 @@ export default function Index() {
             <strong>My notes:</strong> Patricia's case was particularly
             interesting because her weight remained stable throughout.
           </p>
-          <p>
-            This wasn't fat loss—it was tissue reactivation.
-          </p>
+          <p>This wasn't fat loss—it was tissue reactivation.</p>
           <p>
             The area became more metabolically active, the fascia regained
             mobility, and the muscle was able to properly engage again.
@@ -732,8 +708,8 @@ export default function Index() {
             critical.
           </p>
           <p>
-            Many women are trying to burn fat in an area that's not metabolically
-            active enough to release it.
+            Many women are trying to burn fat in an area that's not
+            metabolically active enough to release it.
           </p>
           <p>
             Once we reactivated the tissue, her existing healthy habits finally
@@ -777,9 +753,7 @@ export default function Index() {
             You might feel temporary smoothness from increased surface
             circulation.
           </p>
-          <p>
-            But the underlying problem remains untouched.
-          </p>
+          <p>But the underlying problem remains untouched.</p>
           <p>
             ReSculpt uses Multi-Layer Stimulation Reset™—a system that delivers
             layered frequencies simultaneously, each calibrated to reach a
@@ -799,15 +773,9 @@ export default function Index() {
               metabolic signaling
             </li>
           </ul>
-          <p>
-            Think of it like a defibrillator for dormant tissue.
-          </p>
-          <p>
-            It doesn't burn fat or melt anything away.
-          </p>
-          <p>
-            It restarts the metabolic conversation that had gone silent.
-          </p>
+          <p>Think of it like a defibrillator for dormant tissue.</p>
+          <p>It doesn't burn fat or melt anything away.</p>
+          <p>It restarts the metabolic conversation that had gone silent.</p>
           <p>Once that communication is restored:</p>
           <ul>
             <li>Blood flow increases to the area</li>
@@ -865,16 +833,15 @@ export default function Index() {
             ...then the problem likely isn't your effort. It's tissue dormancy.
           </p>
           <p>And that's exactly what this technology addresses.</p>
+          <p>You still need to maintain healthy habits.</p>
           <p>
-            You still need to maintain healthy habits.
+            You still need to be patient (most of the women saw noticeable
+            changes between weeks 4-8, with continued improvement through week
+            12).
           </p>
           <p>
-            You still need to be patient (most of the women saw noticeable changes
-            between weeks 4-8, with continued improvement through week 12).
-          </p>
-          <p>
-            But those habits will finally work with you instead of against silent
-            tissue.
+            But those habits will finally work with you instead of against
+            silent tissue.
           </p>
         </TextSection>
 
@@ -885,12 +852,10 @@ export default function Index() {
           <p>Most of them are overpriced and under-researched.</p>
           <p>But ReSculpt is different for three reasons:</p>
           <h3>1. The mechanism is scientifically sound.</h3>
+          <p>Multi-Layer Stimulation isn't new technology.</p>
           <p>
-            Multi-Layer Stimulation isn't new technology.
-          </p>
-          <p>
-            It's been used in clinical settings for neuromuscular re-education and
-            post-surgical rehabilitation for years.
+            It's been used in clinical settings for neuromuscular re-education
+            and post-surgical rehabilitation for years.
           </p>
           <p>This device makes it accessible for at-home use.</p>
           <h3>
@@ -898,23 +863,19 @@ export default function Index() {
             proper clinical trial period.
           </h3>
           <p>
-            Unlike injections, surgery, or even some aggressive manual therapies,
-            this has an extremely low risk profile.
+            Unlike injections, surgery, or even some aggressive manual
+            therapies, this has an extremely low risk profile.
           </p>
-          <p>
-            The worst case scenario is it doesn't work for you.
-          </p>
+          <p>The worst case scenario is it doesn't work for you.</p>
           <p>
             And they offer a 100-day money-back guarantee for exactly that
             reason.
           </p>
           <p>Why 100 days specifically?</p>
+          <p>Because tissue reactivation isn't instant.</p>
           <p>
-            Because tissue reactivation isn't instant.
-          </p>
-          <p>
-            It takes 4-6 weeks of consistent use for metabolically dormant tissue
-            to "wake up" and start responding to signals again.
+            It takes 4-6 weeks of consistent use for metabolically dormant
+            tissue to "wake up" and start responding to signals again.
           </p>
           <p>
             A 30-day guarantee wouldn't be enough time to see if your tissue
@@ -922,15 +883,11 @@ export default function Index() {
           </p>
           <p>100 days is a genuine clinical trial period.</p>
           <h3>3. It addresses the actual problem, not the symptom.</h3>
+          <p>Most treatments try to burn fat or tighten skin.</p>
+          <p>This reactivates tissue metabolism.</p>
           <p>
-            Most treatments try to burn fat or tighten skin.
-          </p>
-          <p>
-            This reactivates tissue metabolism.
-          </p>
-          <p>
-            Once the tissue is awake again, your body can do what it's supposed to
-            do naturally.
+            Once the tissue is awake again, your body can do what it's supposed
+            to do naturally.
           </p>
         </TextSection>
 
@@ -962,42 +919,36 @@ export default function Index() {
           </p>
           <p>Here's why I did that:</p>
           <p>
-            Most of the women who've had success with this device found it through
-            hours of late-night research.
+            Most of the women who've had success with this device found it
+            through hours of late-night research.
           </p>
           <p>
             They were comparing devices, reading reviews, second-guessing
             themselves.
           </p>
           <p>
-            They told me they wished they'd found it sooner—and wished they hadn't
-            paid full price while they were still skeptical.
+            They told me they wished they'd found it sooner—and wished they
+            hadn't paid full price while they were still skeptical.
           </p>
           <p>
             So I negotiated something I rarely do: a reduced introductory price
             specifically for readers of this article.
           </p>
           <p>Instead of the standard £99, you can get ReSculpt for £69.</p>
-          <p>
-            That's £30 off, not because the device is discounted.
-          </p>
+          <p>That's £30 off, not because the device is discounted.</p>
           <p>
             But because Ovaliss agreed that women dealing with metabolic tissue
             dormancy shouldn't have to pay full price.
           </p>
           <p>
-            Not while they're still building belief that their bodies can respond
-            again.
+            Not while they're still building belief that their bodies can
+            respond again.
           </p>
+          <p>This pricing is only available through the link below.</p>
+          <p>I don't know how long they'll maintain it.</p>
           <p>
-            This pricing is only available through the link below.
-          </p>
-          <p>
-            I don't know how long they'll maintain it.
-          </p>
-          <p>
-            (They mentioned it's based on current inventory levels, and once those
-            units move, pricing returns to standard.)
+            (They mentioned it's based on current inventory levels, and once
+            those units move, pricing returns to standard.)
           </p>
           <p>
             <strong>Here's what you get:</strong>
@@ -1030,26 +981,20 @@ export default function Index() {
             If your lower belly has been unresponsive despite your best efforts.
           </p>
           <p>
-            If you've felt that frustrating sense of "I'm doing everything right,
-            why isn't this area changing?"
+            If you've felt that frustrating sense of "I'm doing everything
+            right, why isn't this area changing?"
           </p>
           <p>You don't need another diet.</p>
           <p>You don't need more cardio.</p>
           <p>You don't need to "try harder."</p>
           <p>You need to wake up tissue that went dormant.</p>
           <p>
-            And that's exactly what ReSculpt is designed to do, all in the comfort
-            of your own home, on your own schedule.
+            And that's exactly what ReSculpt is designed to do, all in the
+            comfort of your own home, on your own schedule.
           </p>
-          <p>
-            If it works, you'll know.
-          </p>
-          <p>
-            The area will start feeling different during core engagement.
-          </p>
-          <p>
-            Then you'll start seeing changes in how clothes fit.
-          </p>
+          <p>If it works, you'll know.</p>
+          <p>The area will start feeling different during core engagement.</p>
+          <p>Then you'll start seeing changes in how clothes fit.</p>
           <p>Then you'll see visible contour improvement.</p>
           <p>If it doesn't work, you return it. No risk.</p>
           <p>
@@ -1057,8 +1002,8 @@ export default function Index() {
             itself...
           </p>
           <p>
-            I believe any woman dealing with post-hormonal lower belly resistance
-            will see meaningful improvement.
+            I believe any woman dealing with post-hormonal lower belly
+            resistance will see meaningful improvement.
           </p>
           <p>Because the problem was never willpower.</p>
           <p>It was tissue that needed to be brought back online.</p>
