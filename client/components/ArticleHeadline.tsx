@@ -17,7 +17,6 @@ export default function ArticleHeadline({
     <section className="article-headline">
       <div className="headline-content">
         <h1 className="article-title">{title}</h1>
-        <p className="article-subheadline">{subheadline}</p>
 
         <div className="author-row">
           <img src={authorImage} alt={authorName} className="author-image" />
@@ -26,6 +25,7 @@ export default function ArticleHeadline({
             <p className="article-date">{date}</p>
           </div>
         </div>
+        <p className="article-subheadline">{subheadline}</p>
       </div>
     </section>
   );
