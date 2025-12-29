@@ -210,13 +210,17 @@
   @apply max-w-2xl mx-auto text-center space-y-4;
 }
 
+.footer-bio {
+  @apply text-sm text-gray-700 leading-relaxed font-medium mb-3;
+}
+
 .footer-disclaimer,
 .footer-notice {
   @apply text-sm text-gray-600 leading-relaxed;
 }
 
 .footer-disclaimer {
-  @apply italic;
+  @apply text-xs italic;
 }
 
 /* Article Headline Section */
