@@ -219,6 +219,43 @@
   @apply italic;
 }
 
+/* Article Headline Section */
+.article-headline {
+  @apply w-full bg-white py-8 sm:py-12 px-4 sm:px-6 border-b border-gray-200;
+}
+
+.headline-content {
+  @apply max-w-2xl mx-auto;
+}
+
+.article-title {
+  @apply text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-gray-900 mb-4 sm:mb-6 leading-tight;
+}
+
+.article-subheadline {
+  @apply text-lg sm:text-xl text-gray-600 mb-8 sm:mb-10 leading-relaxed;
+}
+
+.author-row {
+  @apply flex items-center gap-4;
+}
+
+.author-image {
+  @apply w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover flex-shrink-0;
+}
+
+.author-info {
+  @apply flex flex-col gap-1;
+}
+
+.author-name {
+  @apply font-semibold text-gray-900 text-sm sm:text-base;
+}
+
+.article-date {
+  @apply text-xs sm:text-sm text-gray-500;
+}
+
 /* Article Container */
 .article-container {
   @apply w-full min-h-screen flex flex-col bg-white;
