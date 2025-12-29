@@ -237,7 +237,7 @@
 }
 
 .article-subheadline {
-  @apply text-lg text-gray-600 mb-8 sm:mb-10 leading-relaxed mt-5;
+  @apply text-lg text-gray-600 mb-8 sm:mb-10 leading-relaxed mt-5 italic;
 }
 
 @media (max-width: 640px) {
