@@ -56,7 +56,7 @@ export default function Index() {
 
         {/* IMAGE 1 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb8545eecc8404b2d9d48161b6e183bed?format=webp&width=1200"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7f552c4be5e4f02bc9ea8690b65a3df"
           alt="Dr. Sarah Mitchell - Board-Certified Physician"
         />
 
