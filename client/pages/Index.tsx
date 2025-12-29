@@ -1,4 +1,5 @@
 import ArticleHeader from "@/components/ArticleHeader";
+import ArticleHeadline from "@/components/ArticleHeadline";
 import ArticleFooter from "@/components/ArticleFooter";
 import ImageSection from "@/components/ImageSection";
 import TextSection from "@/components/TextSection";
@@ -14,6 +15,14 @@ export default function Index() {
     <div className="article-container">
       <ArticleHeader />
 
+      <ArticleHeadline
+        title="The Art of Living Well"
+        subheadline="Discover the principles and practices that transform ordinary lives into extraordinary journeys of purpose and fulfillment."
+        authorName="Sarah Mitchell"
+        authorImage="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=96&h=96&fit=crop"
+        date="December 29, 2024"
+      />
+
       <main className="article-main">
         {/* Hero Image */}
         <ImageSection
@@ -23,7 +32,6 @@ export default function Index() {
 
         {/* Introduction Section */}
         <TextSection>
-          <h2>The Art of Living Well</h2>
           <p>
             In today's fast-paced world, finding balance and purpose has become
             more important than ever. This comprehensive guide explores the
