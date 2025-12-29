@@ -161,7 +161,7 @@
 
 /* Image Section */
 .image-section {
-  @apply w-full bg-white py-8 sm:py-12;
+  @apply w-full bg-white py-8 sm:py-12 px-4 sm:px-6;
 }
 
 .section-image {
@@ -170,13 +170,13 @@
 
 @media (min-width: 768px) {
   .image-section {
-    padding-left: 64px;
-    padding-right: 64px;
+    display: flex;
+    justify-content: center;
   }
 
   .section-image {
-    max-width: 100%;
-    margin: 0 auto;
+    max-width: 48rem;
+    width: 100%;
   }
 }
 
