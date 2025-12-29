@@ -315,6 +315,14 @@
   overflow: hidden;
 }
 
+@media (min-width: 768px) {
+  .hero-image {
+    margin-left: 64px;
+    margin-right: 64px;
+    width: calc(100% - 128px);
+  }
+}
+
 /* Article Container */
 .article-container {
   @apply w-full min-h-screen flex flex-col bg-white;
