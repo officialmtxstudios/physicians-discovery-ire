@@ -48,8 +48,8 @@ export default function Index() {
 
         {/* IMAGE 1 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160550-112173f31c77?w=1200&q=80"
-          alt="Medical consultation and women's health"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb8545eecc8404b2d9d48161b6e183bed?format=webp&width=1200"
+          alt="Dr. Sarah Mitchell - Board-Certified Physician"
         />
 
         {/* The Day Everything Changed */}
