@@ -275,6 +275,14 @@
   @apply text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-gray-900 mb-4 sm:mb-6 leading-tight;
 }
 
+@media (max-width: 640px) {
+  .article-title {
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+  }
+}
+
 .article-subheadline {
   @apply text-lg text-gray-600 mb-8 sm:mb-10 leading-relaxed mt-5 italic;
 }
