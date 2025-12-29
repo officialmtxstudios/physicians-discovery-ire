@@ -148,7 +148,7 @@
 }
 
 .breadcrumb-content {
-  @apply max-w-5xl mx-auto text-gray-700 text-sm sm:text-base;
+  @apply max-w-5xl mx-auto text-gray-700 text-base sm:text-lg;
 }
 
 .breadcrumb-item {
@@ -198,7 +198,7 @@
 }
 
 .text-content p {
-  @apply mb-4 sm:mb-6 text-base sm:text-lg leading-relaxed;
+  @apply mb-4 sm:mb-6 text-lg sm:text-xl leading-relaxed;
 }
 
 .text-content ul,
@@ -207,7 +207,7 @@
 }
 
 .text-content li {
-  @apply text-base sm:text-lg;
+  @apply text-lg sm:text-xl;
 }
 
 /* CTA Section */
@@ -225,7 +225,7 @@
 
 /* CTA Button */
 .cta-button {
-  @apply inline-block px-8 sm:px-10 py-3 sm:py-4 text-white font-semibold rounded-sm text-base sm:text-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 no-underline;
+  @apply inline-block px-8 sm:px-10 py-3 sm:py-4 text-white font-semibold rounded-sm text-lg sm:text-xl transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 no-underline;
   background-color: #ccb0a4;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
@@ -250,16 +250,16 @@
 }
 
 .footer-bio {
-  @apply text-sm text-gray-700 leading-relaxed font-medium mb-3;
+  @apply text-base text-gray-700 leading-relaxed font-medium mb-3;
 }
 
 .footer-disclaimer,
 .footer-notice {
-  @apply text-sm text-gray-600 leading-relaxed;
+  @apply text-base text-gray-600 leading-relaxed;
 }
 
 .footer-disclaimer {
-  @apply text-xs italic;
+  @apply text-sm italic;
 }
 
 /* Article Headline Section */
