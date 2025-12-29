@@ -234,8 +234,8 @@ export default function Index() {
 
         {/* IMAGE 6 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160632-2d3f5b1c77c0?w=1200&q=80"
-          alt="Success story and results"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fd2ab4bdf59204b5ab79267fb55d76f3e"
+          alt="Woman holding ReSculpt device in professional setting"
         />
 
         {/* Why This Works */}
