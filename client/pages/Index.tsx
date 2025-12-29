@@ -299,8 +299,8 @@ export default function Index() {
 
         {/* IMAGE 7 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160633-112173f31c77?w=1200&q=80"
-          alt="ReSculpt technology"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F19563c0d1fc84c2791d63cf20889ebb1"
+          alt="ReSculpt device showing multi-layer penetration into skin, fascia, and muscle"
         />
 
         {/* Why Clinics Charge So Much */}
