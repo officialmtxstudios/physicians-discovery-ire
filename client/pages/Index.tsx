@@ -32,6 +32,7 @@ export default function Index() {
 
         {/* Introduction Section */}
         <TextSection>
+          <h2>Getting Started</h2>
           <p>
             In today's fast-paced world, finding balance and purpose has become
             more important than ever. This comprehensive guide explores the
