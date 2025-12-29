@@ -168,6 +168,18 @@
   @apply w-full h-auto object-cover block;
 }
 
+@media (min-width: 768px) {
+  .image-section {
+    padding-left: 64px;
+    padding-right: 64px;
+  }
+
+  .section-image {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
+
 /* Text Section */
 .text-section {
   @apply w-full bg-white py-8 sm:py-12 px-4 sm:px-6;
