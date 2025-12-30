@@ -41,12 +41,12 @@ export default function Index() {
           <p>They ate clean.</p>
           <p>They exercised daily.</p>
           <p>They managed their stress, tracked their macros, tried every "evidence-based" protocol I recommended.</p>
-          <p>And yet, that lower belly pouch remained.</p>
+          <p>And yet, <strong>their lower belly pouch stayed fat</strong>.</p>
           <p>Month after month, they'd come back to my office, frustrated, defeated, convinced they were somehow failing.</p>
           <p>I'd review their information.</p>
           <p>Check their hormone changes.</p>
           <p>Adjust their protocols.</p>
-          <p>But deep down, I was just as confused as they were.</p>
+          <p>But deep down, <b>I was just as confused as they were</b>.</p>
           <p>I blamed perimenopause.</p>
           <p>They blamed themselves.</p>
           <p>We were both wrong.</p>
