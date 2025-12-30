@@ -442,16 +442,16 @@ export default function Index() {
             should work consistently—not just for one woman.
           </p>
           <p>
-            So I started recommending it to other women who fit the same
-            profile: doing everything right, but that lower belly remained
-            stubbornly unresponsive.
+            <b>So I started recommending it to other women</b> who fit the
+            same profile: doing everything right, but that lower belly
+            remained stubbornly unresponsive.
           </p>
           <p>
             I didn't tell them what to expect. I simply explained the technology
             and suggested they try it for 8-12 weeks while maintaining their
             current routine.
           </p>
-          <p>What happened next completely surprised me.</p>
+          <p><b>What happened next completely surprised me.</b></p>
         </TextSection>
 
         {/* Case Example 1: Linda */}
