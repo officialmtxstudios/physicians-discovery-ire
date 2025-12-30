@@ -666,7 +666,13 @@ export default function Index() {
           <p>But they can't penetrate deep enough to affect fascial mobility or muscle activation.</p>
           <p>You might feel temporary smoothness from increased surface circulation.</p>
           <p>But the underlying problem remains untouched.</p>
-          <p>ReSculpt uses Multi-Layer Stimulation Reset™—a system that delivers layered frequencies simultaneously, each calibrated to reach a different tissue depth:</p>
+          <p>
+            <b>
+              ReSculpt uses Multi-Layer Stimulation Reset™—a system that
+              delivers layered frequencies simultaneously
+            </b>
+            , each calibrated to reach a different tissue depth:
+          </p>
           <ul>
             <li>
               Surface frequency stimulates skin microcirculation and lymphatic
