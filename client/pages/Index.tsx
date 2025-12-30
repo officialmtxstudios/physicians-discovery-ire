@@ -766,9 +766,9 @@ export default function Index() {
             2. It's non-invasive with no contraindications, and it offers a
             proper clinical trial period.
           </h3>
-          <p>Unlike injections, surgery, or even some aggressive manual therapies, this has an extremely low risk profile.</p>
+          <p>Unlike injections, surgery, or even some aggressive manual therapies, <b>this has an extremely low risk profile</b>.</p>
           <p>The worst case scenario is it doesn't work for you.</p>
-          <p>And they offer a 100-day money-back guarantee for exactly that reason.</p>
+          <p>And they offer a <b>100-day money-back guarantee</b> for exactly that reason.</p>
           <p>Why 100 days specifically?</p>
           <p>Because tissue reactivation isn't instant.</p>
           <p>It takes 4-6 weeks of consistent use for metabolically dormant tissue to "wake up" and start responding to signals again.</p>
