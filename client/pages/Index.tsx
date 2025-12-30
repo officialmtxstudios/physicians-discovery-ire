@@ -257,13 +257,13 @@ export default function Index() {
             Here's what makes this different from every other device, cream, or
             protocol:
           </p>
-          <p>Most treatments work on ONE layer:</p>
+          <p><b>Most treatments work on ONE layer:</b></p>
           <ul>
             <li>Creams work on skin (surface only)</li>
             <li>Standard massage works on fascia (middle layer only)</li>
             <li>Exercise works on muscle (deep layer only)</li>
           </ul>
-          <p>But metabolic shutdown affects ALL THREE layers simultaneously.</p>
+          <p>But <b>metabolic shutdown affects ALL THREE layers</b>{" "} simultaneously.</p>
           <p>
             The ReSculpt (the device Jennifer brought into my office that day)
             uses Multi-Layer Stimulation Reset™ technology.
@@ -273,15 +273,17 @@ export default function Index() {
           <p>Your skin tissue responds to one frequency.</p>
           <p>Your fascial tissue responds to another.</p>
           <p>Your muscle tissue responds to a third.</p>
-          <p>Most devices use a single frequency (usually targeting surface-level skin or basic muscle contraction).</p>
+          <p><b>Most devices use a single frequency</b> (usually targeting surface-level skin or basic muscle contraction).</p>
           <p>That's why they feel nice but don't create lasting change.</p>
-          <p>ReSculpt delivers all three frequencies simultaneously.</p>
+          <p><b>ReSculpt delivers all three frequencies simultaneously.</b></p>
           <p>It penetrates through the skin layer, activates the fascial layer, and engages the muscle layer—all in one treatment session.</p>
           <p>It's not vibrating fat away.</p>
           <p>It's not "melting" anything.</p>
           <p>
-            It's restoring metabolic communication to tissue that had gone
-            silent.
+            <b>
+              It's restoring metabolic communication to tissue that had
+              gone silent.
+            </b>
           </p>
           <p>
             It's essentially doing what a trained physical therapist does with
