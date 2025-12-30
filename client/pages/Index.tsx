@@ -232,7 +232,7 @@ export default function Index() {
           <p>"I started noticing changes around week three," she said.</p>
           <p>"The area felt tighter when I engaged my core.</p>
           <p>In the sixth week, I could see the difference.</p>
-          <p>After two months, my husband noticed without me saying anything."</p>
+          <p><b>After two months, my husband noticed</b> without me saying anything."</p>
         </TextSection>
 
         {/* IMAGE 6 */}
