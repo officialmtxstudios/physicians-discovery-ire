@@ -676,7 +676,8 @@ export default function Index() {
         <TextSection>
           <h2>Setting Realistic Expectations (Because I'm A Doctor)</h2>
           <p>I need to be very clear about something:</p>
-          <p>This is not magic. This is metabolic reactivation.</p>
+          <p>This is not magic.</p>
+          <p>This is metabolic reactivation.</p>
           <p>
             If you're looking for a device that melts fat while you sleep, this
             isn't it.
