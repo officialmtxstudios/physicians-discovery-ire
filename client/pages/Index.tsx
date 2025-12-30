@@ -102,8 +102,12 @@ export default function Index() {
           </p>
           <p>
             When estrogen levels decline (whether from perimenopause, menopause,
-            or post-pregnancy hormonal shifts), three critical changes occur
-            simultaneously in lower abdominal tissue:
+            or post-pregnancy hormonal shifts),{" "}
+            <b>
+              three critical changes occur simultaneously in lower abdominal
+              tissue
+            </b>
+            :
           </p>
           <h3>1. Blood flow to the area decreases by up to 40%</h3>
           <p>Less blood flow means less oxygen, fewer nutrients, and significantly reduced metabolic activity.</p>
