@@ -63,7 +63,8 @@ export default function Index() {
           <h2>The Day Everything Changed</h2>
           <p>
             It wasn't until I attended a continuing education conference on
-            metabolic adaptation that the pieces finally clicked.
+            metabolic adaptation that <b>the pieces finally clicked</b>
+            .
           </p>
           <p>
             A colleague of mine (a researcher specializing in post-menopausal
@@ -72,7 +73,7 @@ export default function Index() {
           <p>"The lower abdominal region doesn't just store fat differently after hormonal shifts," she explained.</p>
           <p>"It enters a state of metabolic hibernation."</p>
           <p>Not slower metabolism. Not stubborn fat.</p>
-          <p>Complete metabolic shutdown.</p>
+          <p><b>Complete metabolic shutdown.</b></p>
         </TextSection>
 
         {/* IMAGE 2 */}
