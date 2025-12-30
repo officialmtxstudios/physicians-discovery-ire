@@ -695,20 +695,12 @@ export default function Index() {
               budge
             </li>
           </ul>
-          <p>
-            ...then the problem likely isn't your effort. It's tissue dormancy.
-          </p>
+          <p>...then the problem likely isn't your effort.</p>
+          <p>It's tissue dormancy.</p>
           <p>And that's exactly what this technology addresses.</p>
           <p>You still need to maintain healthy habits.</p>
-          <p>
-            You still need to be patient (most of the women saw noticeable
-            changes between weeks 4-8, with continued improvement through week
-            12).
-          </p>
-          <p>
-            But those habits will finally work with you instead of against
-            silent tissue.
-          </p>
+          <p>You still need to be patient (most of the women saw noticeable changes between weeks 4-8, with continued improvement through week 12).</p>
+          <p>But those habits will finally work with you instead of against silent tissue.</p>
         </TextSection>
 
         {/* Why I'm Comfortable Sharing This */}
@@ -719,24 +711,15 @@ export default function Index() {
           <p>But ReSculpt is different for three reasons:</p>
           <h3>1. The mechanism is scientifically sound.</h3>
           <p>Multi-Layer Stimulation isn't new technology.</p>
-          <p>
-            It's been used in clinical settings for neuromuscular re-education
-            and post-surgical rehabilitation for years.
-          </p>
+          <p>It's been used in clinical settings for neuromuscular re-education and post-surgical rehabilitation for years.</p>
           <p>This device makes it accessible for at-home use.</p>
           <h3>
             2. It's non-invasive with no contraindications, and it offers a
             proper clinical trial period.
           </h3>
-          <p>
-            Unlike injections, surgery, or even some aggressive manual
-            therapies, this has an extremely low risk profile.
-          </p>
+          <p>Unlike injections, surgery, or even some aggressive manual therapies, this has an extremely low risk profile.</p>
           <p>The worst case scenario is it doesn't work for you.</p>
-          <p>
-            And they offer a 100-day money-back guarantee for exactly that
-            reason.
-          </p>
+          <p>And they offer a 100-day money-back guarantee for exactly that reason.</p>
           <p>Why 100 days specifically?</p>
           <p>Because tissue reactivation isn't instant.</p>
           <p>
