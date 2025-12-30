@@ -598,22 +598,10 @@ export default function Index() {
 
         {/* Monica Notes */}
         <TextSection>
-          <p>
-            <strong>My notes:</strong> Monica's case taught me something
-            critical.
-          </p>
-          <p>
-            Many women are trying to burn fat in an area that's not
-            metabolically active enough to release it.
-          </p>
-          <p>
-            Once we reactivated the tissue, her existing healthy habits finally
-            had something to work with.
-          </p>
-          <p>
-            She lost an additional 1.5 inches in her lower abdomen between weeks
-            8-12, despite no changes to diet or exercise.
-          </p>
+          <p><strong>My notes:</strong> Monica's case taught me something critical.</p>
+          <p>Many women are trying to burn fat in an area that's not metabolically active enough to release it.</p>
+          <p>Once we reactivated the tissue, her existing healthy habits finally had something to work with.</p>
+          <p>She lost an additional 1.5 inches in her lower abdomen between weeks 8-12, despite no changes to diet or exercise.</p>
         </TextSection>
 
         {/* CTA Before Why This Technology Works */}
@@ -630,30 +618,13 @@ export default function Index() {
         {/* Why This Technology Works */}
         <TextSection>
           <h2>Why This Technology Works (And Why Most Devices Don't)</h2>
-          <p>
-            After watching woman after woman experience similar results, I
-            started understanding exactly why ReSculpt succeeds where other
-            approaches fail.
-          </p>
+          <p>After watching woman after woman experience similar results, I started understanding exactly why ReSculpt succeeds where other approaches fail.</p>
           <p>Here's the difference:</p>
-          <p>
-            Most at-home devices use single-frequency vibration—essentially a
-            strong massage that feels good in the moment.
-          </p>
-          <p>
-            But they can't penetrate deep enough to affect fascial mobility or
-            muscle activation.
-          </p>
-          <p>
-            You might feel temporary smoothness from increased surface
-            circulation.
-          </p>
+          <p>Most at-home devices use single-frequency vibration—essentially a strong massage that feels good in the moment.</p>
+          <p>But they can't penetrate deep enough to affect fascial mobility or muscle activation.</p>
+          <p>You might feel temporary smoothness from increased surface circulation.</p>
           <p>But the underlying problem remains untouched.</p>
-          <p>
-            ReSculpt uses Multi-Layer Stimulation Reset™—a system that delivers
-            layered frequencies simultaneously, each calibrated to reach a
-            different tissue depth:
-          </p>
+          <p>ReSculpt uses Multi-Layer Stimulation Reset™—a system that delivers layered frequencies simultaneously, each calibrated to reach a different tissue depth:</p>
           <ul>
             <li>
               Surface frequency stimulates skin microcirculation and lymphatic
