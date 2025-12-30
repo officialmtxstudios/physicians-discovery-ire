@@ -38,21 +38,18 @@ export default function Index() {
             For nearly two decades, I've sat across from women who were doing
             everything right.
           </p>
-          <p>
-            They ate clean. They exercised daily. They managed their stress,
-            tracked their macros, tried every "evidence-based" protocol I
-            recommended.
-          </p>
+          <p>They ate clean.</p>
+          <p>They exercised daily.</p>
+          <p>They managed their stress, tracked their macros, tried every "evidence-based" protocol I recommended.</p>
           <p>And yet, that lower belly pouch remained.</p>
-          <p>
-            Month after month, they'd come back to my office, frustrated,
-            defeated, convinced they were somehow failing. I'd review their
-            information. Check their hormone changes. Adjust their protocols.
-          </p>
+          <p>Month after month, they'd come back to my office, frustrated, defeated, convinced they were somehow failing.</p>
+          <p>I'd review their information.</p>
+          <p>Check their hormone changes.</p>
+          <p>Adjust their protocols.</p>
           <p>But deep down, I was just as confused as they were.</p>
-          <p>
-            I blamed perimenopause. They blamed themselves. We were both wrong.
-          </p>
+          <p>I blamed perimenopause.</p>
+          <p>They blamed themselves.</p>
+          <p>We were both wrong.</p>
         </TextSection>
 
         {/* IMAGE 1 */}
@@ -72,11 +69,8 @@ export default function Index() {
             A colleague of mine (a researcher specializing in post-menopausal
             tissue changes) presented findings that made my stomach drop.
           </p>
-          <p>
-            "The lower abdominal region doesn't just store fat differently after
-            hormonal shifts," she explained. "It enters a state of metabolic
-            hibernation."
-          </p>
+          <p>"The lower abdominal region doesn't just store fat differently after hormonal shifts," she explained.</p>
+          <p>"It enters a state of metabolic hibernation."</p>
           <p>Not slower metabolism. Not stubborn fat.</p>
           <p>Complete metabolic shutdown.</p>
         </TextSection>
@@ -111,32 +105,16 @@ export default function Index() {
             simultaneously in lower abdominal tissue:
           </p>
           <h3>1. Blood flow to the area decreases by up to 40%</h3>
-          <p>
-            Less blood flow means less oxygen, fewer nutrients, and
-            significantly reduced metabolic activity. The fat cells in this
-            region essentially go dormant, and they stop responding to the
-            hormonal signals that normally trigger fat release.
-          </p>
+          <p>Less blood flow means less oxygen, fewer nutrients, and significantly reduced metabolic activity.</p>
+          <p>The fat cells in this region essentially go dormant, and they stop responding to the hormonal signals that normally trigger fat release.</p>
           <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
-          <p>
-            The connective tissue (fascia) that surrounds your abdominal muscles
-            loses elasticity. It stops gliding properly.
-          </p>
-          <p>
-            This creates a double problem: first, it traps fluid between the
-            layers, creating puffiness and swelling.
-          </p>
-          <p>
-            Second, it physically prevents the underlying muscle from engaging
-            properly, so even when you do core work, the muscle can't fully
-            activate through the stuck fascia.
-          </p>
+          <p>The connective tissue (fascia) that surrounds your abdominal muscles loses elasticity.</p>
+          <p>It stops gliding properly.</p>
+          <p>This creates a double problem: first, it traps fluid between the layers, creating puffiness and swelling.</p>
+          <p>Second, it physically prevents the underlying muscle from engaging properly, so even when you do core work, the muscle can't fully activate through the stuck fascia.</p>
           <h3>3. Cellular communication breaks down</h3>
-          <p>
-            The cells in this area stop responding to insulin, cortisol, and
-            catecholamines (the hormones that regulate fat storage and release).
-            It's like the cellular "phone lines" have been disconnected.
-          </p>
+          <p>The cells in this area stop responding to insulin, cortisol, and catecholamines (the hormones that regulate fat storage and release).</p>
+          <p>It's like the cellular "phone lines" have been disconnected.</p>
         </TextSection>
 
         {/* IMAGE 4 */}
@@ -148,18 +126,15 @@ export default function Index() {
         {/* Result Section */}
         <TextSection>
           <p>The result?</p>
-          <p>
-            You can eat in a calorie deficit. You can do cardio. You can do core
-            work.
-          </p>
+          <p>You can eat in a calorie deficit.</p>
+          <p>You can do cardio.</p>
+          <p>You can do core work.</p>
           <p>
             But that specific area remains unresponsive—because the tissue has
             entered metabolic dormancy.
           </p>
-          <p>
-            Your body isn't ignoring your efforts. That area literally can't
-            participate in the process anymore.
-          </p>
+          <p>Your body isn't ignoring your efforts.</p>
+          <p>That area literally can't participate in the process anymore.</p>
         </TextSection>
 
         {/* Why Everything You've Tried Has Failed */}
@@ -172,31 +147,16 @@ export default function Index() {
           </p>
           <h3>Diet and exercise?</h3>
           <p>They work beautifully for metabolically active tissue.</p>
-          <p>
-            But they can't "wake up" tissue that's already shut down. You'll
-            lose fat everywhere else while that lower belly remains unchanged.
-          </p>
+          <p>But they can't "wake up" tissue that's already shut down.</p>
+          <p>You'll lose fat everywhere else while that lower belly remains unchanged.</p>
           <h3>Core exercises and planks?</h3>
           <p>They strengthen the muscle underneath.</p>
-          <p>
-            But if the fascia above it is rigid and blood flow is restricted,
-            you're essentially strengthening a muscle that's trapped under
-            dormant tissue.
-          </p>
+          <p>But if the fascia above it is rigid and blood flow is restricted, you're essentially strengthening a muscle that's trapped under dormant tissue.</p>
           <h3>Topical creams and treatments?</h3>
-          <p>
-            They can't penetrate deep enough to reach the fascial layer or
-            affect cellular metabolism.
-          </p>
-          <p>
-            They work on the surface while the problem exists three layers deep.
-          </p>
+          <p>They can't penetrate deep enough to reach the fascial layer or affect cellular metabolism.</p>
+          <p>They work on the surface while the problem exists three layers deep.</p>
           <h3>Hormonal therapy?</h3>
-          <p>
-            Even when we optimize hormone levels, if the tissue has already
-            entered dormancy, it won't spontaneously "wake up" just because
-            hormones improve.
-          </p>
+          <p>Even when we optimize hormone levels, if the tissue has already entered dormancy, it won't spontaneously "wake up" just because hormones improve.</p>
           <p>The damage is already done.</p>
           <p>I realized we'd been treating the wrong problem entirely.</p>
           <p>We weren't dealing with fat that needed to be burned.</p>
@@ -217,20 +177,10 @@ export default function Index() {
             If tissue can enter metabolic shutdown, can it be brought back
             online?
           </p>
-          <p>
-            I spent months reviewing research on neuromuscular re-education,
-            fascial mobilization, and tissue rehabilitation. Most of it was
-            focused on post-surgical recovery or athletic injury treatment.
-          </p>
-          <p>
-            But the mechanism was clear: certain types of stimulation could
-            restore cellular communication and "wake up" dormant tissue.
-          </p>
-          <p>
-            The problem? These treatments required expensive equipment and
-            ongoing clinical sessions—physical therapy, specialized massage,
-            professional-grade neuromuscular devices.
-          </p>
+          <p>I spent months reviewing research on neuromuscular re-education, fascial mobilization, and tissue rehabilitation.</p>
+          <p>Most of it was focused on post-surgical recovery or athletic injury treatment.</p>
+          <p>But the mechanism was clear: certain types of stimulation could restore cellular communication and "wake up" dormant tissue.</p>
+          <p>The problem? These treatments required expensive equipment and ongoing clinical sessions—physical therapy, specialized massage, professional-grade neuromuscular devices.</p>
           <p>
             The women I worked with couldn't afford £100/week in perpetuity.
           </p>
@@ -243,34 +193,24 @@ export default function Index() {
         {/* Dr. Mitchell Discovery */}
         <TextSection>
           <h2>"Dr. Mitchell, I Think I Finally Found Something That Works"</h2>
-          <p>
-            Jennifer was 52. Post-menopausal. She'd been extremely
-            frustrated—doing everything right, seeing results everywhere except
-            her lower belly pouch.
-          </p>
+          <p>Jennifer was 52.</p>
+          <p>Post-menopausal.</p>
+          <p>She'd been extremely frustrated—doing everything right, seeing results everywhere except her lower belly pouch.</p>
           <p>She walked into my office looking different.</p>
-          <p>
-            Not dramatically thinner. But tighter. More contoured. The loose,
-            bulging quality of her lower abdomen had visibly improved.
-          </p>
+          <p>Not dramatically thinner.</p>
+          <p>But tighter.</p>
+          <p>More contoured.</p>
+          <p>The loose, bulging quality of her lower abdomen had visibly improved.</p>
           <p>"What did you do?" I asked immediately.</p>
           <p>She pulled out a small rose-gold device from her bag.</p>
-          <p>
-            "I was skeptical," she admitted. "But I read about the
-            technology—how it works on multiple tissue layers at once, not just
-            the surface. I figured, worst case, I'd return it."
-          </p>
-          <p>
-            She'd been using it four times per week for eight weeks while
-            maintaining her normal routine—same diet, same exercise, same
-            lifestyle.
-          </p>
-          <p>
-            "I started noticing changes around week three," she said. "The area
-            felt tighter when I engaged my core. In the sixth week, I could see
-            the difference. After two months, my husband noticed without me
-            saying anything."
-          </p>
+          <p>"I was skeptical," she admitted.</p>
+          <p>"But I read about the technology—how it works on multiple tissue layers at once, not just the surface.</p>
+          <p>I figured, worst case, I'd return it."</p>
+          <p>She'd been using it four times per week for eight weeks while maintaining her normal routine—same diet, same exercise, same lifestyle.</p>
+          <p>"I started noticing changes around week three," she said.</p>
+          <p>"The area felt tighter when I engaged my core.</p>
+          <p>In the sixth week, I could see the difference.</p>
+          <p>After two months, my husband noticed without me saying anything."</p>
         </TextSection>
 
         {/* IMAGE 6 */}
@@ -282,15 +222,10 @@ export default function Index() {
         {/* Why This Works */}
         <TextSection>
           <p>I was intrigued.</p>
-          <p>
-            As a physician, I'm deeply skeptical of at-home devices. Most of
-            them are overpriced gimmicks that prey on desperate women.
-          </p>
-          <p>
-            But Jennifer's results were undeniable. And when she explained the
-            technology that she read about (Multi-Layer Stimulation Reset™) the
-            mechanism made perfect sense.
-          </p>
+          <p>As a physician, I'm deeply skeptical of at-home devices.</p>
+          <p>Most of them are overpriced gimmicks that prey on desperate women.</p>
+          <p>But Jennifer's results were undeniable.</p>
+          <p>And when she explained the technology that she read about (Multi-Layer Stimulation Reset™) the mechanism made perfect sense.</p>
         </TextSection>
 
         {/* Why This Works When Everything Else Failed */}
@@ -311,25 +246,17 @@ export default function Index() {
             The ReSculpt (the device Jennifer brought into my office that day)
             uses Multi-Layer Stimulation Reset™ technology.
           </p>
-          <p>
-            This system delivers layered frequencies designed to reach each
-            tissue type's specific resonance point.
-          </p>
+          <p>This system delivers layered frequencies designed to reach each tissue type's specific resonance point.</p>
           <p>Think of it like this:</p>
           <p>Your skin tissue responds to one frequency.</p>
           <p>Your fascial tissue responds to another.</p>
           <p>Your muscle tissue responds to a third.</p>
-          <p>
-            Most devices use a single frequency (usually targeting surface-level
-            skin or basic muscle contraction).
-          </p>
+          <p>Most devices use a single frequency (usually targeting surface-level skin or basic muscle contraction).</p>
           <p>That's why they feel nice but don't create lasting change.</p>
           <p>ReSculpt delivers all three frequencies simultaneously.</p>
-          <p>
-            It penetrates through the skin layer, activates the fascial layer,
-            and engages the muscle layer—all in one treatment session.
-          </p>
-          <p>It's not vibrating fat away. It's not "melting" anything.</p>
+          <p>It penetrates through the skin layer, activates the fascial layer, and engages the muscle layer—all in one treatment session.</p>
+          <p>It's not vibrating fat away.</p>
+          <p>It's not "melting" anything.</p>
           <p>
             It's restoring metabolic communication to tissue that had gone
             silent.
