@@ -415,19 +415,13 @@ export default function Index() {
         {/* Case Example 1: Linda */}
         <TextSection>
           <h3>Case Example #1: Linda, 49 – Post-Hysterectomy "Pooch"</h3>
-          <p>
-            Linda had a full hysterectomy at 46. Within six months, she
-            developed what she called "the pooch that appeared out of nowhere."
-          </p>
-          <p>
-            She'd always been active—taught yoga, ate a predominantly
-            plant-based diet. But after surgery, her lower abdomen became soft,
-            protruding, and completely unresponsive to her normal routine.
-          </p>
-          <p>
-            "I can hold a plank for two minutes," she told me, frustrated. "But
-            my stomach still looks like this. It doesn't make sense."
-          </p>
+          <p>Linda had a full hysterectomy at 46.</p>
+          <p>Within six months, she developed what she called "the pooch that appeared out of nowhere."</p>
+          <p>She'd always been active—taught yoga, ate a predominantly plant-based diet.</p>
+          <p>But after surgery, her lower abdomen became soft, protruding, and completely unresponsive to her normal routine.</p>
+          <p>"I can hold a plank for two minutes," she told me, frustrated.</p>
+          <p>"But my stomach still looks like this.</p>
+          <p>It doesn't make sense."</p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 4
             days per week, while continuing her regular yoga practice and diet.
@@ -474,15 +468,12 @@ export default function Index() {
         <TextSection>
           <h3>Case Example #2: Patricia, 56 – "Menopause Belly"</h3>
           <p>Patricia came to me two years into menopause, devastated.</p>
-          <p>
-            "I gained 15 pounds, all in my stomach," she said. "I've lost 12 of
-            those pounds. But my belly looks exactly the same as when I was 15
-            pounds heavier."
-          </p>
-          <p>
-            She'd been walking daily, tracking calories, doing everything I
-            recommended. Her labs were perfect. Her weight was healthy.
-          </p>
+          <p>"I gained 15 pounds, all in my stomach," she said.</p>
+          <p>"I've lost 12 of those pounds.</p>
+          <p>But my belly looks exactly the same as when I was 15 pounds heavier."</p>
+          <p>She'd been walking daily, tracking calories, doing everything I recommended.</p>
+          <p>Her labs were perfect.</p>
+          <p>Her weight was healthy.</p>
           <p>
             But that lower belly pouch—the classic "menopause belly"—wouldn't
             budge.
@@ -557,11 +548,8 @@ export default function Index() {
             waist trainers, three different "belly-blasting" supplements, and
             two rounds of CoolSculpting on her lower abdomen.
           </p>
-          <p>
-            "The CoolSculpting destroyed my savings and did absolutely nothing,"
-            she said, on the verge of tears. "I don't understand what I'm doing
-            wrong."
-          </p>
+          <p>"The CoolSculpting destroyed my savings and did absolutely nothing," she said, on the verge of tears.</p>
+          <p>"I don't understand what I'm doing wrong."</p>
           <p>
             But at this point I already knew: she wasn't doing anything wrong.
           </p>
