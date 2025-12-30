@@ -132,11 +132,11 @@ export default function Index() {
         <TextSection>
           <p>The result?</p>
           <p>You can eat in a calorie deficit.</p>
-          <p>You can do cardio.</p>
-          <p>You can do core work.</p>
+          <p><b>You can do cardio.</b></p>
+          <p><b>You can do core work.</b></p>
           <p>
-            But that specific area remains unresponsive—because the tissue has
-            entered metabolic dormancy.
+            But that specific area remains unresponsive—because{" "}
+            <b>the tissue has entered metabolic dormancy</b>.
           </p>
           <p>Your body isn't ignoring your efforts.</p>
           <p>That area literally can't participate in the process anymore.</p>
