@@ -326,7 +326,7 @@ export default function Index() {
             You're not paying for them to "work harder" on your fat or "burn
             more calories."
           </p>
-          <p>You're paying for tissue re-signaling.</p>
+          <p><b>You're paying for tissue re-signaling.</b></p>
           <p>
             Clinics understood the signaling problem years before anyone else.
           </p>
@@ -335,7 +335,7 @@ export default function Index() {
             fat, they were stubborn because the tissue had stopped responding to
             metabolic signals.
           </p>
-          <p>So they developed multi-layer stimulation technology.</p>
+          <p><b>So they developed multi-layer stimulation technology</b>.</p>
           <p>
             This technology could "wake up" dormant tissue by delivering precise
             frequencies to fat, fascia, and muscle simultaneously.
@@ -352,10 +352,22 @@ export default function Index() {
         <TextSection>
           <p>That's why clinics get results when everything else fails.</p>
           <p>Not because they have magic machines—but because they finally addressed the actual problem.</p>
-          <p>Ten years ago, this level of multi-layer stimulation required clinic-grade equipment.</p>
+          <p>
+            Ten years ago,{" "}
+            <b>
+              this level of multi-layer stimulation required clinic-grade
+              equipment
+            </b>
+            .
+          </p>
           <p>It was expensive, immobile, and required trained operators and multiple sessions at £300-£1,000 each.</p>
           <p>But advances in tissue-penetration technology and frequency modulation have changed everything.</p>
-          <p>The same three-layer stimulation can now be delivered in a device you control at home.</p>
+          <p>
+            <b>
+              The same three-layer stimulation can now be delivered in a
+              device you control at home.
+            </b>
+          </p>
           <p>The mechanism is identical.</p>
           <p>The delivery system has simply become accessible.</p>
           <p>ReSculpt doesn't "replicate" clinic technology.</p>
