@@ -393,13 +393,19 @@ export default function Index() {
           </ul>
           <p>Neither could recreate true multi-layer stimulation.</p>
           <p>So doctors rightfully remained skeptical of at-home devices—because most of them didn't work.</p>
-          <p>What changed?</p>
+          <p><b>What changed?</b></p>
           <p>Advances in frequency modulation technology now allow multiple tissue-specific frequencies to be delivered simultaneously in a compact device.</p>
           <p>This wasn't possible even five years ago.</p>
-          <p>ReSculpt is the first at-home device I've seen that delivers genuine three-layer stimulation, the same mechanism clinics use.</p>
+          <p>
+            <b>
+              ReSculpt is the first at-home device I've seen that delivers
+              genuine three-layer stimulation
+            </b>
+            , the same mechanism clinics use.
+          </p>
           <p>Is it exactly identical to a £40,000 clinic machine? No.</p>
           <p>But does it deliver the core mechanism (multi-layer tissue signaling) that makes clinic treatments effective?</p>
-          <p>Yes.</p>
+          <p><b>Yes.</b></p>
           <p>And because you control the frequency and consistency at home, many of the women I've recommended the device to actually see better results than they did with sporadic clinic visits.</p>
           <p>This isn't a "cheap alternative."</p>
           <p>It's the same science, evolved for accessibility.</p>
