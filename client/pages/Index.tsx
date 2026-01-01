@@ -785,7 +785,7 @@ export default function Index() {
         {/* IMAGE 13 - Monica's case example and results */}
         <img
           loading="lazy"
-          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F35b8f559a7824701842ff7a1707bc62d?format=webp&width=800"
           alt="Monica's case example and results"
           style={{
             aspectRatio: "1.78",
