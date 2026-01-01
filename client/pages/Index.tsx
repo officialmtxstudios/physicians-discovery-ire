@@ -449,7 +449,7 @@ export default function Index() {
 
         {/* IMAGE 8 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Ffa9ecb62786a4be799d72b170611ec23"
+          src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F4445763fa7864ea9b8265bbcd724e0a4?alt=media&token=024edbd1-f2af-4d78-8959-d9cd864baceb&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
           alt="Professional body sculpting clinic with advanced equipment"
         />
 
@@ -641,7 +641,7 @@ export default function Index() {
 
         {/* IMAGE 9 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F0b0503a80b5e41b891a78230a96a636f"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbfdd3f11f9e745df9e6c9e2633e0e79b"
           alt="Woman in warrior pose demonstrating core strength and engagement"
         />
 
