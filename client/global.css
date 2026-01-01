@@ -267,8 +267,7 @@
 }
 
 .article-title {
-  @apply text-3xl sm:text-4xl font-serif font-bold text-gray-900 mb-3 sm:mb-4 leading-tight;
-  font-size: calc(5rem - 8px);
+  @apply text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-gray-900 mb-3 sm:mb-4 leading-tight;
 }
 
 @media (min-width: 1024px) {
