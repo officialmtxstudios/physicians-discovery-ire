@@ -1,11 +1,15 @@
+import { useRef } from "react";
 import ArticleHeader from "@/components/ArticleHeader";
 import ArticleHeadline from "@/components/ArticleHeadline";
 import ArticleFooter from "@/components/ArticleFooter";
 import ImageSection from "@/components/ImageSection";
 import TextSection from "@/components/TextSection";
 import CTAButton from "@/components/CTAButton";
+import StickyCTA from "@/components/StickyCTA";
 
 export default function Index() {
+  const drMitchellSectionRef = useRef<HTMLHeadingElement>(null);
+
   const handleCTA = () => {
     // Handle CTA action here
     console.log("CTA clicked");
