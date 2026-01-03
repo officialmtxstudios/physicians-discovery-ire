@@ -16,7 +16,11 @@ export default function ArticleHeadline({
   return (
     <section className="article-headline">
       <div className="headline-content">
-        <h1 className="article-title">{title}</h1>
+        <h1 className="article-title">
+          <p>
+            <strong>{title}</strong>
+          </p>
+        </h1>
 
         <div className="author-row">
           <img src={authorImage} alt={authorName} className="author-image" />
