@@ -1048,7 +1048,7 @@ export default function Index() {
             specifically for readers of this article.
           </p>
           <p>
-            <b>Instead of the compare at price of $169 AUD, you can get ReSculpt for $119 AUD.</b>
+            <b>Instead of the standard $169 AUD, you can get ReSculpt for just $119 AUD.</b>
           </p>
           <p>That's $50 off, not because the device is discounted.</p>
           <p>
@@ -1071,7 +1071,7 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>ReSculpt device ($119 AUD instead of $169 AUD compare at price)</li>
+            <li>ReSculpt device ($119 AUD of $169 AUD)</li>
             <li>Free shipping</li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
