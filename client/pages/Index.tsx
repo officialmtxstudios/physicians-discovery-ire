@@ -270,7 +270,7 @@ export default function Index() {
             professional-grade neuromuscular devices.
           </p>
           <p>
-            The women I worked with couldn't afford £100/week in perpetuity.
+            The women I worked with couldn't afford $200 AUD/week in perpetuity.
           </p>
           <p>
             Then, six months ago, a woman came to my office and showed me{" "}
@@ -401,7 +401,7 @@ export default function Index() {
             This is the same principle professional body sculpting clinics use.
           </p>
           <p>
-            They charge £1,000+ per area because they understood the signaling
+            They charge over $1,800 AUD per area because they understood the signaling
             problem years before anyone else.
           </p>
           <p>
@@ -419,12 +419,12 @@ export default function Index() {
         {/* Why Clinics Charge So Much */}
         <TextSection>
           <h2>
-            Why Clinics Charge £2,000+ For This (And Why You Don't Have To)
+            Why Clinics Charge over $4,000 AUD For This (And Why You Don't Have To)
           </h2>
           <p>Here's something most women don't realize:</p>
           <p>
             When you go to a professional body sculpting clinic and pay
-            £1,500-£3,000 per treatment area, you need to understand what you're
+            $2,700-$5,400 AUD per treatment area, you need to understand what you're
             actually paying for.
           </p>
           <p>
@@ -539,7 +539,7 @@ export default function Index() {
             </b>
             , the same mechanism clinics use.
           </p>
-          <p>Is it exactly identical to a £40,000 clinic machine? No.</p>
+          <p>Is it exactly identical to a $72,000 AUD clinic machine? No.</p>
           <p>
             But does it deliver the core mechanism (multi-layer tissue
             signaling) that makes clinic treatments effective?
@@ -1048,9 +1048,9 @@ export default function Index() {
             specifically for readers of this article.
           </p>
           <p>
-            <b>Instead of the standard £84, you can get ReSculpt for £59.</b>
+            <b>Instead of the compare at price of $169 AUD, you can get ReSculpt for $119 AUD.</b>
           </p>
-          <p>That's £25 off, not because the device is discounted.</p>
+          <p>That's $50 off, not because the device is discounted.</p>
           <p>
             But because Ovaliss agreed that women dealing with metabolic tissue
             dormancy shouldn't have to pay full price.
