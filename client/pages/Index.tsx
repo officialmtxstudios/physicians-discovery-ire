@@ -1071,7 +1071,7 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>ReSculpt device ($119 AUD of $169 AUD)</li>
+            <li>ReSculpt device ($119 <strike>$169</strike> AUD)</li>
             <li>Free shipping</li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
