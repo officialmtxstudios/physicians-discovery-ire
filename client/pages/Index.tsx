@@ -268,7 +268,7 @@ export default function Index() {
             professional-grade neuromuscular devices.
           </p>
           <p>
-            The women I worked with couldn't afford $200 AUD/week in perpetuity.
+            The women I worked with couldn't afford $150/week in perpetuity.
           </p>
           <p>
             Then, six months ago, a woman came to my office and showed me{" "}
