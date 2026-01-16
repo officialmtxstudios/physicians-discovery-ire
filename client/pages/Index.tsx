@@ -399,7 +399,7 @@ export default function Index() {
             This is the same principle professional body sculpting clinics use.
           </p>
           <p>
-            They charge over $1,800 AUD per area because they understood the
+            They charge $1,500+ per area because they understood the
             signaling problem years before anyone else.
           </p>
           <p>
@@ -417,18 +417,13 @@ export default function Index() {
         {/* Why Clinics Charge So Much */}
         <TextSection>
           <h2>
-            Why Clinics Charge over $4,000 AUD For This (And Why You Don't Have
+            Why Clinics Charge $3,000+ For This (And Why You Don't Have
             To)
           </h2>
           <p>Here's something most women don't realize:</p>
           <p>
             When you go to a professional body sculpting clinic and pay
-            $2,700-$5,400 AUD per treatment area, you need to understand what
-            you're actually paying for.
-          </p>
-          <p>
-            You're not paying for them to "work harder" on your fat or "burn
-            more calories."
+            $2,000-$4,000 per treatment area, you're not paying for them to "work harder" on your fat or "burn more calories."
           </p>
           <p>
             <b>You're paying for tissue re-signaling.</b>
