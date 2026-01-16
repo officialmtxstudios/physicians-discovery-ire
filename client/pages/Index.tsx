@@ -581,7 +581,7 @@ export default function Index() {
           </p>
           <p>
             <b>So I started recommending it to other women</b> who fit the same
-            profile: doing everything right, but that lower belly remained
+            profile: doing everything right, but that upper arms remained
             stubbornly unresponsive.
           </p>
           <p>
