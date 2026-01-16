@@ -111,7 +111,7 @@ export default function Index() {
         {/* Why Your Lower Belly Stopped Responding */}
         <TextSection>
           <h2>
-            Why Your Lower Belly Stopped Responding (And Why It's Not Your
+            Why Your Upper Arms Stopped Responding (And Why It's Not Your
             Fault)
           </h2>
           <p>
@@ -119,10 +119,9 @@ export default function Index() {
             you've tried has failed:
           </p>
           <p>
-            When estrogen levels decline (whether from perimenopause, menopause,
-            or post-pregnancy hormonal shifts),{" "}
+            When oestrogen levels decline (whether from perimenopause, menopause, or age-related hormonal shifts),{" "}
             <b>
-              three critical changes occur simultaneously in lower abdominal
+              three critical changes occur simultaneously in upper arm
               tissue
             </b>
             :
@@ -139,17 +138,17 @@ export default function Index() {
           </p>
           <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
           <p>
-            The connective tissue (fascia) that surrounds your abdominal muscles
+            The connective tissue (fascia) that surrounds your arm muscles
             loses elasticity.
           </p>
           <p>It stops gliding properly.</p>
           <p>
             This creates a double problem: first, it traps fluid between the
-            layers, creating puffiness and swelling.
+            layers, creating the jiggly, wobbly quality of bat wings.
           </p>
           <p>
             Second, it physically prevents the underlying muscle from engaging
-            properly, so even when you do core work, the muscle can't fully
+            properly, so even when you do arm exercises, the muscle can't fully
             activate through the stuck fascia.
           </p>
           <h3>3. Cellular communication breaks down</h3>
