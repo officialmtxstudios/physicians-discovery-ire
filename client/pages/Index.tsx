@@ -20,9 +20,9 @@ export default function Index() {
       <ArticleHeader />
 
       <ArticleHeadline
-        title="After 20 Years Treating Women's Hormonal Changes, I Finally Understand Why Lower Belly Fat Won't Budge—And How Women Are Losing Inches In Just 8 Weeks"
+        title="After 20 Years Treating Women's Hormonal Changes, I Finally Understand Why Upper Arm Fat Won't Budge—And How Women Are Losing Their Bat Wings In Just 8 Weeks Without Surgery or Endless Arm Exercises"
         subheadline=""
-        authorName="Sarah Mitchell, MD"
+        authorName="Sarah Mitchell, MD - Board-Certified Physician Studying Women's Metabolic Health"
         authorImage="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb8545eecc8404b2d9d48161b6e183bed?format=webp&width=96"
         date="December 29, 2025"
       />
@@ -50,7 +50,7 @@ export default function Index() {
             "evidence-based" protocol I recommended.
           </p>
           <p>
-            And yet, <strong>their lower belly pouch stayed fat</strong>.
+            And yet, <strong>their upper arms remained soft and jiggly</strong>.
           </p>
           <p>
             Month after month, they'd come back to my office, frustrated,
