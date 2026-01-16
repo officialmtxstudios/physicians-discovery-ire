@@ -781,15 +781,14 @@ export default function Index() {
             critical.
           </p>
           <p>
-            Many women are trying to burn fat in an area that's not
-            metabolically active enough to release it.
+            Many women are trying to tone arms that aren't metabolically active enough to respond.
           </p>
           <p>
             Once we reactivated the tissue, her existing healthy habits finally
             had something to work with.
           </p>
           <p>
-            She lost an additional 1.5 inches in her lower abdomen between weeks
+            She improved another inch in her upper arms between weeks
             8-12, despite no changes to diet or exercise.
           </p>
         </TextSection>
