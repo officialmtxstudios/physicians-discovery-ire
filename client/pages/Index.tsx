@@ -81,12 +81,11 @@ export default function Index() {
             metabolic adaptation that <b>the pieces finally clicked</b>.
           </p>
           <p>
-            A colleague of mine (a researcher specializing in post-menopausal
+            A colleague of mine (a researcher specialising in post-menopausal
             tissue changes) presented findings that made my stomach drop.
           </p>
           <p>
-            "The lower abdominal region doesn't just store fat differently after
-            hormonal shifts," she explained.
+            "The upper arm region doesn't just store fat differently after hormonal shifts," she explained.
           </p>
           <p>"It enters a state of metabolic hibernation."</p>
           <p>Not slower metabolism. Not stubborn fat.</p>
