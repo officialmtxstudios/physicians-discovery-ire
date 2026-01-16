@@ -173,7 +173,7 @@ export default function Index() {
             <b>You can do cardio.</b>
           </p>
           <p>
-            <b>You can do core work.</b>
+            <b>You can do arm exercises.</b>
           </p>
           <p>
             But that specific area remains unresponsive—because{" "}
@@ -198,12 +198,12 @@ export default function Index() {
           <p>But they can't "wake up" tissue that's already shut down.</p>
           <p>
             <b>
-              You'll lose fat everywhere else while that lower belly remains
+              You'll lose fat everywhere else while those upper arms remain
               unchanged
             </b>
             .
           </p>
-          <h3>Core exercises and planks?</h3>
+          <h3>Arm exercises and tricep dips?</h3>
           <p>They strengthen the muscle underneath.</p>
           <p>
             But if the fascia above it is rigid and blood flow is restricted,
