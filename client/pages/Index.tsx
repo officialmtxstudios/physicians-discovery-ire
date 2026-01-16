@@ -1017,11 +1017,10 @@ export default function Index() {
           </p>
           <p>
             <b>
-              Instead of the standard $169 AUD, you can get ReSculpt for just
-              $119 AUD.
+              Instead of the standard $199, you can get ReSculpt for $119.
             </b>
           </p>
-          <p>That's $50 off, not because the device is discounted.</p>
+          <p>That's $80 off, not because the device is discounted.</p>
           <p>
             But because Ovaliss agreed that women dealing with metabolic tissue
             dormancy shouldn't have to pay full price.
@@ -1043,7 +1042,7 @@ export default function Index() {
           </p>
           <ul>
             <li>
-              ReSculpt device ($119 <strike>$169</strike> AUD)
+              ReSculpt device ($119 instead of $199)
             </li>
             <li>Free shipping</li>
             <li>
