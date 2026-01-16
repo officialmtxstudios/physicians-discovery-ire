@@ -279,23 +279,23 @@ export default function Index() {
         {/* Dr. Mitchell Discovery */}
         <TextSection>
           <h2>"Dr. Mitchell, I Think I Finally Found Something That Works"</h2>
-          <p>Jennifer was 52.</p>
+          <p>Jennifer was 65.</p>
           <p>Post-menopausal.</p>
           <p>
             She'd been extremely frustrated—doing everything right, seeing
-            results everywhere except her lower belly pouch.
+            results everywhere except her upper arms.
           </p>
           <p>She walked into my office looking different.</p>
           <p>Not dramatically thinner.</p>
           <p>But tighter.</p>
-          <p>More contoured.</p>
+          <p>More toned.</p>
           <p>
-            The loose, bulging quality of her lower abdomen had visibly
+            The loose, sagging quality of her upper arms had visibly
             improved.
           </p>
           <p>"What did you do?" I asked immediately.</p>
           <p>She pulled out a small rose-gold device from her bag.</p>
-          <p>"I was skeptical," she admitted.</p>
+          <p>"I was sceptical," she admitted.</p>
           <p>
             "But I read about the technology—how it works on multiple tissue
             layers at once, not just the surface.
@@ -307,10 +307,10 @@ export default function Index() {
             lifestyle.
           </p>
           <p>"I started noticing changes around week three," she said.</p>
-          <p>"The area felt tighter when I engaged my core.</p>
+          <p>"The area felt tighter when I tensed my arm.</p>
           <p>In the sixth week, I could see the difference.</p>
           <p>
-            <b>After two months, my husband noticed</b> without me saying
+            <b>After two months, my daughter noticed</b> without me saying
             anything."
           </p>
         </TextSection>
