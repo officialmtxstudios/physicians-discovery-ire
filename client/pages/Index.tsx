@@ -92,10 +92,6 @@ export default function Index() {
           <p>
             <b>Complete metabolic shutdown.</b>
           </p>
-        </TextSection>
-
-        {/* Tissue Response Section */}
-        <TextSection>
           <p>
             The tissue isn't ignoring your efforts. It literally can't hear the
             signals anymore.
@@ -119,7 +115,7 @@ export default function Index() {
             you've tried has failed:
           </p>
           <p>
-            When oestrogen levels decline (whether from perimenopause, menopause, or age-related hormonal shifts),{" "}
+            When estrogen levels decline (whether from perimenopause, menopause, or age-related hormonal shifts),{" "}
             <b>
               three critical changes occur simultaneously in upper arm
               tissue
