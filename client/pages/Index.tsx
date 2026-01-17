@@ -561,12 +561,12 @@ export default function Index() {
           <p>It's the same science, evolved for accessibility.</p>
         </TextSection>
 
-        {/* IMAGE - Before What I Started Seeing Repeatedly */}
+        {/* IMAGE 8 - Before What I Started Seeing Repeatedly */}
         <div className="w-full bg-white py-4 sm:py-6 px-4 sm:px-6 md:flex md:justify-center">
           <img
             loading="lazy"
-            src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbeaa732e2b924c2a95f0fa4581e0244f?alt=media&token=9e27985e-7950-4658-b834-a78d99c8dfef&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
-            alt="Patient testimonial results"
+            src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F38b5f427bcbe4115aa981017dfe9dfcc?alt=media&token=17fa9912-ff95-4145-985a-e69d08848335&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
+            alt="Before and after patient results"
             style={{
               aspectRatio: "1",
               objectFit: "cover",
@@ -643,10 +643,10 @@ export default function Index() {
           </ul>
         </TextSection>
 
-        {/* IMAGE 9 */}
+        {/* IMAGE 10 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbfdd3f11f9e745df9e6c9e2633e0e79b"
-          alt="Woman in warrior pose demonstrating core strength and engagement"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F86f9e78a67024a0d8bccf81185e00a50?format=webp&width=800"
+          alt="Linda's case example and results"
         />
 
         {/* Linda Notes */}
@@ -700,7 +700,7 @@ export default function Index() {
         {/* IMAGE 11 - Patricia's case example and results */}
         <img
           loading="lazy"
-          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F46e98fa574d449f08def2a9c8d8957c1?format=webp&width=800"
           alt="Patricia's case example and results"
           style={{
             aspectRatio: "1.78",
@@ -767,11 +767,11 @@ export default function Index() {
           </ul>
         </TextSection>
 
-        {/* IMAGE 13 - Monica's case example and results */}
+        {/* IMAGE 9 - Monica's case example and results */}
         <div className="image-section">
           <img
             loading="lazy"
-            src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F35b8f559a7824701842ff7a1707bc62d?format=webp&width=800"
+            src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F16179f77bb3b46df826aea5a4a1ac931?format=webp&width=800"
             alt="Monica's case example and results"
             style={{
               aspectRatio: "1.78",
