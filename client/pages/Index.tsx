@@ -9,6 +9,7 @@ import StickyCTA from "@/components/StickyCTA";
 
 export default function Index() {
   const drMitchellSectionRef = useRef<HTMLHeadingElement>(null);
+  const monicaImageRef = useRef<HTMLDivElement>(null);
 
   const handleCTA = () => {
     // Handle CTA action here
@@ -817,7 +818,7 @@ export default function Index() {
         </TextSection>
 
         {/* IMAGE 9 - Monica's case example and results */}
-        <div className="image-section">
+        <div className="image-section" ref={monicaImageRef}>
           <img
             loading="lazy"
             src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa55d724d6cb342099e242301fb3d9c2b?format=webp&width=800"
@@ -1242,7 +1243,7 @@ export default function Index() {
       <ArticleFooter />
 
       <StickyCTA
-        triggerRef={drMitchellSectionRef}
+        triggerRef={monicaImageRef}
         href="https://www.ovaliss.com/products/resculpt"
       >
         Check ReSculpt Availability
