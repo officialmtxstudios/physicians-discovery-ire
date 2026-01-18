@@ -738,21 +738,23 @@ export default function Index() {
         </TextSection>
 
         {/* IMAGE 11 - Patricia's case example and results */}
-        <img
-          loading="lazy"
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1033a1ad4f02404a8c74eaeb91218e9e?format=webp&width=800"
-          alt="Patricia's case example and results"
-          style={{
-            aspectRatio: "1.78",
-            objectFit: "cover",
-            objectPosition: "center",
-            width: "100%",
-            marginTop: "20px",
-            minHeight: "20px",
-            minWidth: "20px",
-            overflow: "hidden",
-          }}
-        />
+        <div className="image-section">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1033a1ad4f02404a8c74eaeb91218e9e?format=webp&width=800"
+            alt="Patricia's case example and results"
+            style={{
+              aspectRatio: "1.78",
+              objectFit: "cover",
+              objectPosition: "center",
+              width: "100%",
+              minHeight: "20px",
+              minWidth: "20px",
+              overflow: "hidden",
+            }}
+            className="section-image"
+          />
+        </div>
 
         {/* Patricia Notes */}
         <TextSection>
