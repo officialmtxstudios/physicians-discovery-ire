@@ -798,11 +798,15 @@ export default function Index() {
               <strong>Week 4:</strong> "I almost quit because I wasn't seeing
               anything. Then I put on a dress I wore last month and the sleeves
               fit way better."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 7:</strong> "My Pilates instructor asked what I
               changed. She said my arm definition during class is noticeably
               stronger."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 12:</strong> "I finally understand what happened. It
