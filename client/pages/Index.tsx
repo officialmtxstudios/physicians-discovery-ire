@@ -890,7 +890,7 @@ export default function Index() {
           <p>But the underlying problem remains untouched.</p>
           <p>
             <b>
-              ReSculpt uses Multi-Layer Stimulation Reset™—a system that
+              ReSculpt uses Multi-Layer Stimulation Reset—a system that
               delivers layered frequencies simultaneously
             </b>
             , each calibrated to reach a different tissue depth:
@@ -899,10 +899,14 @@ export default function Index() {
             <li>
               Surface frequency stimulates skin microcirculation and lymphatic
               drainage
+              <br />
+              <br />
             </li>
             <li>
               Mid-layer frequency mobilizes fascial tissue and breaks up
               adhesions
+              <br />
+              <br />
             </li>
             <li>
               Deep frequency activates neuromuscular response and restores
@@ -914,10 +918,24 @@ export default function Index() {
           <p>It restarts the metabolic conversation that had gone silent.</p>
           <p>Once that communication is restored:</p>
           <ul>
-            <li>Blood flow increases to the area</li>
-            <li>Fascia regains mobility</li>
-            <li>Muscle can engage properly again</li>
-            <li>Fat cells start responding to normal metabolic signals</li>
+            <li>
+              Blood flow increases to the area.
+              <br />
+              <br />
+            </li>
+            <li>
+              Fascia regains mobility.
+              <br />
+              <br />
+            </li>
+            <li>
+              Muscle can engage properly again.
+              <br />
+              <br />
+            </li>
+            <li>
+              Fat cells start responding to normal metabolic signals.
+            </li>
           </ul>
           <p>
             And then your healthy habits start working on that area again
