@@ -9,6 +9,7 @@ import StickyCTA from "@/components/StickyCTA";
 
 export default function Index() {
   const drMitchellSectionRef = useRef<HTMLHeadingElement>(null);
+  const monicaImageRef = useRef<HTMLDivElement>(null);
 
   const handleCTA = () => {
     // Handle CTA action here
@@ -115,10 +116,11 @@ export default function Index() {
             you've tried has failed:
           </p>
           <p>
-            When estrogen levels decline (whether from perimenopause, menopause,
-            or age-related hormonal shifts),{" "}
+            When estrogen levels decline (whether from menopause, or age-related
+            hormonal shifts),{" "}
             <b>
-              three critical changes occur simultaneously in upper arm tissue
+              &nbsp;three critical changes occur simultaneously in upper arm
+              tissue
             </b>
             :
           </p>
@@ -128,7 +130,7 @@ export default function Index() {
             significantly reduced metabolic activity.
           </p>
           <p>
-            The fat cells in this region essentially go dormant, and they stop
+            The fat cells in this region essentially go to sleep, and they stop
             responding to the hormonal signals that normally trigger fat
             release.
           </p>
@@ -149,8 +151,8 @@ export default function Index() {
           </p>
           <h3>3. Cellular communication breaks down</h3>
           <p>
-            The cells in this area stop responding to insulin, cortisol, and
-            catecholamines (the hormones that regulate fat storage and release).
+            The cells in this area stop responding to insulin, cortisol, and the
+            other hormones that regulate fat storage and release).
           </p>
           <p>It's like the cellular "phone lines" have been disconnected.</p>
         </TextSection>
@@ -166,14 +168,20 @@ export default function Index() {
           <p>The result?</p>
           <p>You can eat in a calorie deficit.</p>
           <p>
-            <b>You can do cardio.</b>
+            <b>
+              <span style={{ fontWeight: "normal" }}>You can do cardio.</span>
+            </b>
           </p>
           <p>
-            <b>You can do arm exercises.</b>
+            <b>
+              <span style={{ fontWeight: "normal" }}>
+                You can do arm exercises.
+              </span>
+            </b>
           </p>
           <p>
             But that specific area remains unresponsive—because{" "}
-            <b>the tissue has entered metabolic dormancy</b>.
+            <b>&nbsp;the tissue has entered metabolic dormancy</b>.
           </p>
           <p>Your body isn't ignoring your efforts.</p>
           <p>That area literally can't participate in the process anymore.</p>
@@ -219,7 +227,7 @@ export default function Index() {
           <h3>Topical creams and treatments?</h3>
           <p>
             They can't penetrate deep enough to reach the fascial layer or
-            affect cellular metabolism.
+            affect cellular energy.
           </p>
           <p>
             They work on the surface while the problem exists three layers deep.
@@ -253,18 +261,15 @@ export default function Index() {
             online?
           </p>
           <p>
-            I spent months reviewing research on neuromuscular re-education,
-            fascial mobilization, and tissue rehabilitation.
+            I spent months reading research about tissue rehab.
+            <br />
           </p>
-          <p>
-            Most of it was focused on post-surgical recovery or athletic injury
-            treatment.
-          </p>
+          <p>Most of it was about recovery after surgery or sports injuries.</p>
           <p>
             But the mechanism was clear:{" "}
             <b>
-              certain types of stimulation could restore cellular communication
-              and "wake up" dormant tissue
+              &nbsp;certain types of stimulation could restore cellular
+              communication and "wake up" dormant tissue
             </b>
             .
           </p>
@@ -278,7 +283,7 @@ export default function Index() {
           </p>
           <p>
             Then, six months ago, a woman came to my office and showed me{" "}
-            <b>something that changed everything</b>.
+            <b>&nbsp;something that changed everything</b>.
           </p>
         </TextSection>
 
@@ -319,11 +324,7 @@ export default function Index() {
           </p>
           <p>"I started noticing changes around week three," she said.</p>
           <p>"The area felt tighter when I tensed my arm.</p>
-          <p>In the sixth week, I could see the difference.</p>
-          <p>
-            <b>After two months, my daughter noticed</b> without me saying
-            anything."
-          </p>
+          <p>In the sixth week, I could see the difference."</p>
         </TextSection>
 
         {/* IMAGE 6 */}
@@ -344,7 +345,7 @@ export default function Index() {
           </p>
           <p>
             And when she explained the technology that she read about
-            (Multi-Layer Stimulation Reset™) the mechanism made perfect sense.
+            (Multi-Layer Stimulation Reset) the mechanism made perfect sense.
           </p>
         </TextSection>
 
@@ -359,20 +360,28 @@ export default function Index() {
             <b>Most treatments work on ONE layer:</b>
           </p>
           <ul>
-            <li>Creams work on skin (surface only)</li>
-            <li>Standard massage works on fascia (middle layer only)</li>
+            <li>
+              Creams work on skin (surface only)
+              <br />
+              <br />
+            </li>
+            <li>
+              Standard massage works on fascia (middle layer only)
+              <br />
+              <br />
+            </li>
             <li>Exercise works on muscle (deep layer only)</li>
           </ul>
           <p>
-            But <b>metabolic shutdown affects ALL THREE layers</b>{" "}
-            simultaneously.
+            But <b>metabolic shutdown affects ALL THREE layers</b>
+            &nbsp;simultaneously.
           </p>
           <p>
             The ReSculpt (the device Jennifer brought into my office that day)
-            uses Multi-Layer Stimulation Reset™ technology.
+            uses Multi-Layer Stimulation Reset technology.
           </p>
           <p>
-            This system delivers layered frequencies designed to reach each
+            This system delivers layered vibrations designed to reach each
             tissue type's specific resonance point.
           </p>
           <p>Think of it like this:</p>
@@ -472,7 +481,7 @@ export default function Index() {
           <p>
             Ten years ago,{" "}
             <b>
-              this level of multi-layer stimulation required clinic-grade
+              &nbsp;this level of multi-layer stimulation required clinic-grade
               equipment
             </b>
             .
@@ -482,8 +491,8 @@ export default function Index() {
             sessions at $500-$1,500 each.
           </p>
           <p>
-            But advances in tissue-penetration technology and frequency
-            modulation have changed everything.
+            But advances in tissue-penetration technology have changed
+            everything.
           </p>
           <p>
             <b>
@@ -505,7 +514,7 @@ export default function Index() {
           <h2>"If This Really Worked, Wouldn't Doctors Be Doing It?"</h2>
           <p>This is the question I hear most often—and it's a fair one.</p>
           <p>
-            Here's the truth: Doctors have recommended similar technology—they
+            Here's the truth: Doctors have recommended similar technology, they
             just haven't been recommending at-home versions until recently.
           </p>
           <p>Why?</p>
@@ -517,6 +526,8 @@ export default function Index() {
             <li>
               Surface-only stimulation (vibration belts, heated wraps) that
               couldn't penetrate deep enough to affect tissue metabolism
+              <br />
+              <br />
             </li>
             <li>
               Single-layer devices (basic EMS units) that could activate muscle
@@ -532,9 +543,9 @@ export default function Index() {
             <b>What changed?</b>
           </p>
           <p>
-            Advances in frequency modulation technology now allow multiple
-            tissue-specific frequencies to be delivered simultaneously in a
-            compact device.
+            Advances in technology now allow multiple frequencies designed for
+            different layers of tissue to be delivered simultaneously in a
+            single device.
           </p>
           <p>This wasn't possible even five years ago.</p>
           <p>
@@ -641,11 +652,15 @@ export default function Index() {
             <li>
               <strong>Week 2:</strong> "The area feels tighter when I flex my
               arm."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 5:</strong> "My sister asked if I'd had surgery. I
               told her no, but I could see what she meant. The hanging part is
               less... droopy."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 8:</strong> "I measured. I'm down 2 inches around my
@@ -704,11 +719,15 @@ export default function Index() {
             <li>
               <strong>Week 3:</strong> "I don't see much yet, but it feels
               firmer. Like there's actually muscle definition under there now."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 6:</strong> "My husband said, 'Your arms look
               different.' I thought he was being nice. Then I looked in the
               mirror wearing a singlet. He was right."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 10:</strong> "I wore a sleeveless dress to my
@@ -779,11 +798,15 @@ export default function Index() {
               <strong>Week 4:</strong> "I almost quit because I wasn't seeing
               anything. Then I put on a dress I wore last month and the sleeves
               fit way better."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 7:</strong> "My Pilates instructor asked what I
               changed. She said my arm definition during class is noticeably
               stronger."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 12:</strong> "I finally understand what happened. It
@@ -794,7 +817,7 @@ export default function Index() {
         </TextSection>
 
         {/* IMAGE 9 - Monica's case example and results */}
-        <div className="image-section">
+        <div className="image-section" ref={monicaImageRef}>
           <img
             loading="lazy"
             src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa55d724d6cb342099e242301fb3d9c2b?format=webp&width=800"
@@ -836,7 +859,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton href="https://www.ovaliss.com/products/resculpt">
+              <CTAButton href="https://www.ovaliss.com/products/resculpt-aus-arm">
                 Check ReSculpt Availability
               </CTAButton>
             </div>
@@ -867,8 +890,8 @@ export default function Index() {
           <p>But the underlying problem remains untouched.</p>
           <p>
             <b>
-              ReSculpt uses Multi-Layer Stimulation Reset™—a system that
-              delivers layered frequencies simultaneously
+              ReSculpt uses Multi-Layer Stimulation Reset—a system that delivers
+              layered frequencies simultaneously
             </b>
             , each calibrated to reach a different tissue depth:
           </p>
@@ -876,10 +899,14 @@ export default function Index() {
             <li>
               Surface frequency stimulates skin microcirculation and lymphatic
               drainage
+              <br />
+              <br />
             </li>
             <li>
               Mid-layer frequency mobilizes fascial tissue and breaks up
               adhesions
+              <br />
+              <br />
             </li>
             <li>
               Deep frequency activates neuromuscular response and restores
@@ -891,10 +918,22 @@ export default function Index() {
           <p>It restarts the metabolic conversation that had gone silent.</p>
           <p>Once that communication is restored:</p>
           <ul>
-            <li>Blood flow increases to the area</li>
-            <li>Fascia regains mobility</li>
-            <li>Muscle can engage properly again</li>
-            <li>Fat cells start responding to normal metabolic signals</li>
+            <li>
+              Blood flow increases to the area.
+              <br />
+              <br />
+            </li>
+            <li>
+              Fascia regains mobility.
+              <br />
+              <br />
+            </li>
+            <li>
+              Muscle can engage properly again.
+              <br />
+              <br />
+            </li>
+            <li>Fat cells start responding to normal metabolic signals.</li>
           </ul>
           <p>
             And then your healthy habits start working on that area again
@@ -933,18 +972,30 @@ export default function Index() {
             If you're looking for a device that melts fat while you sleep, this
             isn't it.
           </p>
-          <p>If you want abs without effort, this won't give you that.</p>
+          <p>
+            If you want toned arms without effort, this won't give you that.
+          </p>
           <p>But if you're someone who:</p>
           <ul>
-            <li>Eats well and exercises consistently</li>
-            <li>Has lost weight everywhere except that lower belly pouch</li>
+            <li>
+              Eats well and exercises consistently,
+              <br />
+              <br />
+            </li>
+            <li>
+              Has lost weight everywhere except in your upper arms,
+              <br />
+              <br />
+            </li>
             <li>
               Feels like that specific area "stopped responding" after hormonal
-              changes
+              changes,
+              <br />
+              <br />
             </li>
             <li>
               Has tried everything and can't understand why that area won't
-              budge
+              budge,
             </li>
           </ul>
           <p>...then the problem likely isn't your effort.</p>
@@ -1029,11 +1080,11 @@ export default function Index() {
         <TextSection>
           <h2>A Note on Availability (And Why I'm Sharing This)</h2>
           <p>
-            After seeing consistent results with ReSculpt across multiple women,{" "}
+            After seeing consistent results with ReSculpt across multiple women,
             <b>
-              I reached out to Ovaliss (the company behind the device) and asked
-              if they'd be willing to offer a special arrangement for women
-              reading this article
+              &nbsp;I reached out to Ovaliss (the company behind the device) and
+              asked if they'd be willing to offer a special arrangement for
+              women reading this article
             </b>
             .
           </p>
@@ -1078,8 +1129,16 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>ReSculpt device ($119 instead of $199)</li>
-            <li>Free shipping</li>
+            <li>
+              ReSculpt device ($119 instead of $199)
+              <br />
+              <br />
+            </li>
+            <li>
+              Free shipping
+              <br />
+              <br />
+            </li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
             </li>
@@ -1091,7 +1150,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton href="https://www.ovaliss.com/products/resculpt">
+              <CTAButton href="https://www.ovaliss.com/products/resculpt-aus-arm">
                 Check ReSculpt Availability
               </CTAButton>
             </div>
@@ -1169,7 +1228,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton href="https://www.ovaliss.com/products/resculpt">
+              <CTAButton href="https://www.ovaliss.com/products/resculpt-aus-arm">
                 Check ReSculpt Availability
               </CTAButton>
             </div>
@@ -1180,8 +1239,8 @@ export default function Index() {
       <ArticleFooter />
 
       <StickyCTA
-        triggerRef={drMitchellSectionRef}
-        href="https://www.ovaliss.com/products/resculpt"
+        triggerRef={monicaImageRef}
+        href="https://www.ovaliss.com/products/resculpt-aus-arm"
       >
         Check ReSculpt Availability
       </StickyCTA>
