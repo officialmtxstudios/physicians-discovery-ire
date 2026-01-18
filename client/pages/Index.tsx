@@ -176,7 +176,7 @@ export default function Index() {
           </p>
           <p>
             But that specific area remains unresponsive—because{" "}
-            <b>the tissue has entered metabolic dormancy</b>.
+            <b>&nbsp;the tissue has entered metabolic dormancy</b>.
           </p>
           <p>Your body isn't ignoring your efforts.</p>
           <p>That area literally can't participate in the process anymore.</p>
@@ -222,7 +222,7 @@ export default function Index() {
           <h3>Topical creams and treatments?</h3>
           <p>
             They can't penetrate deep enough to reach the fascial layer or
-            affect cellular metabolism.
+            affect cellular energy.
           </p>
           <p>
             They work on the surface while the problem exists three layers deep.
@@ -256,17 +256,17 @@ export default function Index() {
             online?
           </p>
           <p>
-            I spent months reviewing research on neuromuscular re-education,
-            fascial mobilization, and tissue rehabilitation.
+            I spent months reading research about tissue rehab.
+            <br />
           </p>
           <p>
-            Most of it was focused on post-surgical recovery or athletic injury
-            treatment.
+            Most of it was about recovery after surgery or sports
+            injuries.
           </p>
           <p>
             But the mechanism was clear:{" "}
             <b>
-              certain types of stimulation could restore cellular communication
+              &nbsp;certain types of stimulation could restore cellular communication
               and "wake up" dormant tissue
             </b>
             .
@@ -281,7 +281,7 @@ export default function Index() {
           </p>
           <p>
             Then, six months ago, a woman came to my office and showed me{" "}
-            <b>something that changed everything</b>.
+            <b>&nbsp;something that changed everything</b>.
           </p>
         </TextSection>
 
