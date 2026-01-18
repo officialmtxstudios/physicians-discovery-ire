@@ -513,8 +513,9 @@ export default function Index() {
           <h2>"If This Really Worked, Wouldn't Doctors Be Doing It?"</h2>
           <p>This is the question I hear most often—and it's a fair one.</p>
           <p>
-            Here's the truth: Doctors have recommended similar technology—they
-            just haven't been recommending at-home versions until recently.
+            Here's the truth: Doctors have recommended similar technology,
+            they just haven't been recommending at-home versions until
+            recently.
           </p>
           <p>Why?</p>
           <p>
