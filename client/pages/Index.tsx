@@ -974,18 +974,29 @@ export default function Index() {
             If you're looking for a device that melts fat while you sleep, this
             isn't it.
           </p>
-          <p>If you want abs without effort, this won't give you that.</p>
+          <p>If you want toned arms without effort, this won't give you
+          that.</p>
           <p>But if you're someone who:</p>
           <ul>
-            <li>Eats well and exercises consistently</li>
-            <li>Has lost weight everywhere except that lower belly pouch</li>
             <li>
-              Feels like that specific area "stopped responding" after hormonal
-              changes
+              Eats well and exercises consistently,
+              <br />
+              <br />
             </li>
             <li>
-              Has tried everything and can't understand why that area won't
-              budge
+              Has lost weight everywhere except in your upper arms,
+              <br />
+              <br />
+            </li>
+            <li>
+              Feels like that specific area "stopped responding" after
+              hormonal changes,
+              <br />
+              <br />
+            </li>
+            <li>
+              Has tried everything and can't understand why that area
+              won't budge,
             </li>
           </ul>
           <p>...then the problem likely isn't your effort.</p>
