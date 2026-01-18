@@ -719,11 +719,15 @@ export default function Index() {
             <li>
               <strong>Week 3:</strong> "I don't see much yet, but it feels
               firmer. Like there's actually muscle definition under there now."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 6:</strong> "My husband said, 'Your arms look
               different.' I thought he was being nice. Then I looked in the
               mirror wearing a singlet. He was right."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 10:</strong> "I wore a sleeveless dress to my
