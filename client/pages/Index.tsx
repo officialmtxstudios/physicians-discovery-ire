@@ -376,11 +376,11 @@ export default function Index() {
             &nbsp;simultaneously.
           </p>
           <p>
-            The ReSculpt (the device Jennifer brought into my office that day)
-            uses Multi-Layer Stimulation Reset™ technology.
+            The ReSculpt (the device Jennifer brought into my office that
+            day) uses Multi-Layer Stimulation Reset technology.
           </p>
           <p>
-            This system delivers layered frequencies designed to reach each
+            This system delivers layered vibrations designed to reach each
             tissue type's specific resonance point.
           </p>
           <p>Think of it like this:</p>
