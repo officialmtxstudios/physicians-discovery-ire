@@ -526,10 +526,12 @@ export default function Index() {
             <li>
               Surface-only stimulation (vibration belts, heated wraps) that
               couldn't penetrate deep enough to affect tissue metabolism
+              <br />
+              <br />
             </li>
             <li>
-              Single-layer devices (basic EMS units) that could activate muscle
-              but missed the fat and fascia layers entirely
+              Single-layer devices (basic EMS units) that could activate
+              muscle but missed the fat and fascia layers entirely
             </li>
           </ul>
           <p>Neither could recreate true multi-layer stimulation.</p>
