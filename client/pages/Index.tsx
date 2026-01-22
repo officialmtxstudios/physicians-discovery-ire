@@ -455,76 +455,26 @@ export default function Index() {
         {/* Why This Technology Works */}
         <TextSection>
           <h2>Why This Technology Works (And Why Most Devices Don't)</h2>
-          <p>
-            After watching woman after woman experience similar results, I
-            started understanding exactly why ReSculpt succeeds where other
-            approaches fail.
-          </p>
+          <p>After watching woman after woman get similar results, I started understanding exactly why ReSculpt works where other things fail.</p>
           <p>Here's the difference:</p>
-          <p>
-            Most at-home devices use single-frequency vibration—essentially a
-            strong massage that feels good in the moment.
-          </p>
-          <p>
-            But they can't penetrate deep enough to affect fascial mobility or
-            muscle activation.
-          </p>
-          <p>
-            You might feel temporary smoothness from increased surface
-            circulation.
-          </p>
-          <p>But the underlying problem remains untouched.</p>
-          <p>
-            <b>
-              ReSculpt uses Multi-Layer Stimulation Reset—a system that delivers
-              layered frequencies simultaneously
-            </b>
-            , each calibrated to reach a different tissue depth:
-          </p>
+          <p>Most at-home devices use single-signal vibration—basically a strong massage that feels good in the moment but can't go deep enough to affect tissue movement or muscle turning on.</p>
+          <p>You might feel temporary smoothness (from more surface blood flow), but the real problem stays untouched.</p>
+          <p>ReSculpt uses Multi-Layer Stimulation Reset—a system that sends layered signals at the same time, each set to reach a different tissue depth:</p>
           <ul>
-            <li>
-              Surface frequency stimulates skin microcirculation and lymphatic
-              drainage
-              <br />
-              <br />
-            </li>
-            <li>
-              Mid-layer frequency mobilizes fascial tissue and breaks up
-              adhesions
-              <br />
-              <br />
-            </li>
-            <li>
-              Deep frequency activates neuromuscular response and restores
-              metabolic signaling
-            </li>
+            <li>Surface signal turns on skin blood flow and fluid drainage.<br /><br /></li>
+            <li>Mid-layer signal loosens stuck tissue and breaks up blocks.<br /><br /></li>
+            <li>Deep signal turns on muscle response and restores cell signaling.</li>
           </ul>
-          <p>Think of it like a defibrillator for dormant tissue.</p>
           <p>It doesn't burn fat or melt anything away.</p>
-          <p>It restarts the metabolic conversation that had gone silent.</p>
-          <p>Once that communication is restored:</p>
+          <p>It restarts the conversation that had gone quiet.</p>
+          <p>Once that communication comes back:</p>
           <ul>
-            <li>
-              Blood flow increases to the area.
-              <br />
-              <br />
-            </li>
-            <li>
-              Fascia regains mobility.
-              <br />
-              <br />
-            </li>
-            <li>
-              Muscle can engage properly again.
-              <br />
-              <br />
-            </li>
-            <li>Fat cells start responding to normal metabolic signals.</li>
+            <li>Blood flow goes up in the area.<br /><br /></li>
+            <li>Tissue quality improves.<br /><br /></li>
+            <li>Muscle can work properly again.<br /><br /></li>
+            <li>Fat cells start responding to normal signals</li>
           </ul>
-          <p>
-            And then your healthy habits start working on that area again
-            (finally).
-          </p>
+          <p>And then your healthy habits start working on that area again (finally).</p>
         </TextSection>
 
         {/* IMAGE 14 - How the technology works */}
