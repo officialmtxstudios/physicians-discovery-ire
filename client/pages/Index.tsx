@@ -349,15 +349,8 @@ export default function Index() {
 
         {/* Linda Notes */}
         <TextSection>
-          <p>
-            <strong>My notes:</strong> When I saw Linda at week 8, the fascial
-            tissue had noticeably improved in mobility.
-          </p>
-          <p>
-            The "bat wing" quality was significantly reduced. Her tricep
-            engagement was visibly stronger.
-          </p>
-          <p>The tissue had quite literally woken back up.</p>
+          <p>My notes: When I saw Linda at week 8, the tissue had clearly improved.</p>
+          <p>The "bat wing" look was much less. Her tricep was clearly stronger. The tissue had literally woken back up.</p>
         </TextSection>
 
         {/* Case Example 2: Patricia */}
