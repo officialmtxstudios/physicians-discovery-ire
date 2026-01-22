@@ -152,37 +152,15 @@ export default function Index() {
 
         {/* The Missing Link */}
         <TextSection>
-          <h2>The Missing Link: Metabolic Reactivation</h2>
+          <h2>The Missing Link: Waking Up the Tissue</h2>
           <p>After that conference, I became obsessed with one question:</p>
-          <p>
-            If tissue can enter metabolic shutdown, can it be brought back
-            online?
-          </p>
-          <p>
-            I spent months reading research about tissue rehab.
-            <br />
-          </p>
-          <p>Most of it was about recovery after surgery or sports injuries.</p>
-          <p>
-            But the mechanism was clear:{" "}
-            <b>
-              &nbsp;certain types of stimulation could restore cellular
-              communication and "wake up" dormant tissue
-            </b>
-            .
-          </p>
-          <p>
-            The problem? These treatments required expensive equipment and
-            ongoing clinical sessions—physical therapy, specialized massage,
-            professional-grade neuromuscular devices.
-          </p>
-          <p>
-            The women I worked with couldn't afford $150/week in perpetuity.
-          </p>
-          <p>
-            Then, six months ago, a woman came to my office and showed me{" "}
-            <b>&nbsp;something that changed everything</b>.
-          </p>
+          <p>If tissue can shut down, can it be brought back?</p>
+          <p>I spent months reading research about tissue rehab. Most of it was about recovery after surgery or sports injuries.</p>
+          <p>But the answer was clear: certain types of stimulation could restore cell communication and "wake up" sleeping tissue.</p>
+          <p>The problem?</p>
+          <p>These treatments needed expensive equipment and weekly clinic visits—physical therapy, special massage, professional devices.</p>
+          <p>The women I worked with couldn't afford $150 a week forever.</p>
+          <p>Then, six months ago, a woman came to my office and showed me something that changed everything.</p>
         </TextSection>
 
         {/* IMAGE 6 */}
