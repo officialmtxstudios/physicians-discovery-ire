@@ -40,30 +40,15 @@ export default function Index() {
 
         {/* Opening Section */}
         <TextSection>
-          <p>
-            For nearly two decades, I've sat across from women who were doing
-            everything right.
-          </p>
+          <p>For almost twenty years, I've sat across from women who were doing everything right.</p>
           <p>They ate clean.</p>
-          <p>They exercised daily.</p>
-          <p>
-            They managed their stress, tracked their macros, tried every
-            "evidence-based" protocol I recommended.
-          </p>
-          <p>
-            And yet, <strong>their upper arms remained soft and jiggly</strong>.
-          </p>
-          <p>
-            Month after month, they'd come back to my office, frustrated,
-            defeated, convinced they were somehow failing.
-          </p>
-          <p>I'd review their information.</p>
-          <p>Check their hormone changes.</p>
-          <p>Adjust their protocols.</p>
-          <p>
-            But deep down, <b>I was just as confused as they were</b>.
-          </p>
-          <p>I blamed perimenopause.</p>
+          <p>They exercised every day.</p>
+          <p>They tried every protocol I gave them.</p>
+          <p>And yet, their upper arms stayed soft and jiggly.</p>
+          <p>Month after month, they'd come back to my office. Frustrated. Defeated… Sure they were failing somehow.</p>
+          <p>I'd review their information. Check their hormones. Change their plans.</p>
+          <p>But deep down, I was just as confused as they were.</p>
+          <p>I blamed menopause.</p>
           <p>They blamed themselves.</p>
           <p>We were both wrong.</p>
         </TextSection>
