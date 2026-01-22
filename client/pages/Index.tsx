@@ -108,25 +108,10 @@ export default function Index() {
         {/* Result Section */}
         <TextSection>
           <p>The result?</p>
-          <p>You can eat in a calorie deficit.</p>
-          <p>
-            <b>
-              <span style={{ fontWeight: "normal" }}>You can do cardio.</span>
-            </b>
-          </p>
-          <p>
-            <b>
-              <span style={{ fontWeight: "normal" }}>
-                You can do arm exercises.
-              </span>
-            </b>
-          </p>
-          <p>
-            But that specific area remains unresponsive—because{" "}
-            <b>&nbsp;the tissue has entered metabolic dormancy</b>.
-          </p>
-          <p>Your body isn't ignoring your efforts.</p>
-          <p>That area literally can't participate in the process anymore.</p>
+          <p>You can eat less. You can do cardio. You can do arm exercises.</p>
+          <p>But that area stays the same—because the tissue shut down.</p>
+          <p>Your body isn't ignoring your work. That area literally can't take part anymore.</p>
+          <p>Like a bear that went into hibernation—it's not dead, it's just deeply asleep and not responding to anything.</p>
         </TextSection>
 
         {/* Why Everything You've Tried Has Failed */}
