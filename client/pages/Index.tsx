@@ -195,18 +195,11 @@ export default function Index() {
 
         {/* Why This Works */}
         <TextSection>
-          <p>I was intrigued.</p>
-          <p>As a physician, I'm deeply skeptical of at-home devices.</p>
-          <p>
-            Most of them are overpriced gimmicks that prey on desperate women.
-          </p>
-          <p>
-            <b>But Jennifer's results were undeniable.</b>
-          </p>
-          <p>
-            And when she explained the technology that she read about
-            (Multi-Layer Stimulation Reset) the mechanism made perfect sense.
-          </p>
+          <p>I was curious.</p>
+          <p>As a doctor, I don't trust at-home devices.</p>
+          <p>Most of them are overpriced junk that prey on desperate women.</p>
+          <p>But Jennifer's results were real.</p>
+          <p>And when she explained the technology (Multi-Layer Stimulation Reset™), it made perfect sense.</p>
         </TextSection>
 
         {/* Why This Works When Everything Else Failed */}
