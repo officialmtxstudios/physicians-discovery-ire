@@ -117,23 +117,11 @@ export default function Index() {
         {/* Why Everything You've Tried Has Failed */}
         <TextSection>
           <h2>Why Everything You've Tried Has Failed</h2>
-          <p>
-            Once I understood this, I looked back at every protocol I'd
-            recommended—and realized why none of them worked for this specific
-            problem:
-          </p>
-          <h3>
-            <span>Diet and exercise?</span>
-          </h3>
-          <p>They work beautifully for metabolically active tissue.</p>
-          <p>But they can't "wake up" tissue that's already shut down.</p>
-          <p>
-            <b>
-              You'll lose fat everywhere else while those upper arms remain
-              unchanged
-            </b>
-            .
-          </p>
+          <p>Once I understood this, I looked back at everything I'd told women to do—and saw why none of it worked for arms:</p>
+          <h3>Diet and exercise?</h3>
+          <p>They work great for tissue that's still active. But they can't "wake up" tissue that's already shut down.</p>
+          <p>It's like shouting at someone wearing noise-canceling headphones—it doesn't matter how loud you yell, they can't hear you.</p>
+          <p>You'll lose fat everywhere else while those upper arms stay the same.</p>
         </TextSection>
 
         {/* IMAGE 5 */}
