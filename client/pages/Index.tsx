@@ -81,50 +81,22 @@ export default function Index() {
           <h2>
             Why Your Upper Arms Stopped Responding (And Why It's Not Your Fault)
           </h2>
-          <p>
-            Here's what's actually happening in that area—and why everything
-            you've tried has failed:
-          </p>
-          <p>
-            When estrogen levels decline (whether from menopause, or age-related
-            hormonal shifts),{" "}
-            <b>
-              &nbsp;three critical changes occur simultaneously in upper arm
-              tissue
-            </b>
-            :
-          </p>
-          <h3>1. Blood flow to the area decreases by up to 40%</h3>
-          <p>
-            Less blood flow means less oxygen, fewer nutrients, and
-            significantly reduced metabolic activity.
-          </p>
-          <p>
-            The fat cells in this region essentially go to sleep, and they stop
-            responding to the hormonal signals that normally trigger fat
-            release.
-          </p>
-          <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
-          <p>
-            The connective tissue (fascia) that surrounds your arm muscles loses
-            elasticity.
-          </p>
-          <p>It stops gliding properly.</p>
-          <p>
-            This creates a double problem: first, it traps fluid between the
-            layers, creating the jiggly, wobbly quality of bat wings.
-          </p>
-          <p>
-            Second, it physically prevents the underlying muscle from engaging
-            properly, so even when you do arm exercises, the muscle can't fully
-            activate through the stuck fascia.
-          </p>
-          <h3>3. Cellular communication breaks down</h3>
-          <p>
-            The cells in this area stop responding to insulin, cortisol, and the
-            other hormones that regulate fat storage and release).
-          </p>
-          <p>It's like the cellular "phone lines" have been disconnected.</p>
+          <p>Here's what's really happening—and why nothing you've tried has worked:</p>
+          <p>When your hormone levels drop (from menopause or aging), three big changes happen at once in your upper arm tissue:</p>
+          <h3>1. Blood flow drops by up to 40%</h3>
+          <p>Think of it like a garden hose that got kinked—the water can barely trickle through anymore.</p>
+          <p>Less blood means less oxygen and fewer nutrients.</p>
+          <p>The fat cells go to sleep.</p>
+          <p>They stop responding to the signals that normally make them release the fat.</p>
+          <h3>2. The tissue under your skin gets stiff and "stuck"</h3>
+          <p>It's like cling wrap that got crumpled and won't lay flat anymore—it bunches up and traps everything underneath.</p>
+          <p>The tissue that surrounds your arm muscles loses stretch. It stops moving right.</p>
+          <p>This creates two problems:</p>
+          <p>First, it traps fluid, creating the jiggly, wobbly look of bat wings.</p>
+          <p>Second, it blocks the muscle underneath. So even when you do arm exercises, the muscle can't work properly through the stuck tissue.</p>
+          <h3>3. Cell communication breaks down</h3>
+          <p>Like the phone lines got cut—or the Wi-Fi went out. The cells are there, they're just not getting the signal anymore.</p>
+          <p>The cells stop responding to the hormones that control fat storage.</p>
         </TextSection>
 
         {/* IMAGE 4 */}
