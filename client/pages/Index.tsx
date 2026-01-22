@@ -559,69 +559,19 @@ export default function Index() {
         {/* A Note on Availability */}
         <TextSection>
           <h2>A Note on Availability (And Why I'm Sharing This)</h2>
-          <p>
-            After seeing consistent results with ReSculpt across multiple women,
-            <b>
-              &nbsp;I reached out to Ovaliss (the company behind the device) and
-              asked if they'd be willing to offer a special arrangement for
-              women reading this article
-            </b>
-            .
-          </p>
+          <p>After seeing regular results with ReSculpt across many women, I reached out to Ovaliss (the company behind the device) and asked if they'd offer a special deal for women reading this article.</p>
           <p>Here's why I did that:</p>
-          <p>
-            Most of the women who've had success with this device found it
-            through hours of late-night research.
-          </p>
-          <p>
-            They were comparing devices, reading reviews, second-guessing
-            themselves.
-          </p>
-          <p>
-            They told me they wished they'd found it sooner—and wished they
-            hadn't paid full price while they were still skeptical.
-          </p>
-          <p>
-            So I negotiated something I rarely do: a reduced introductory price
-            specifically for readers of this article.
-          </p>
-          <p>
-            <b>Instead of the standard $199, you can get ReSculpt for $119.</b>
-          </p>
-          <p>That's $80 off, not because the device is discounted.</p>
-          <p>
-            But because Ovaliss agreed that women dealing with metabolic tissue
-            dormancy shouldn't have to pay full price.
-          </p>
-          <p>
-            Not while they're still building belief that their bodies can
-            respond again.
-          </p>
-          <p>
-            <b>This pricing is only available through the link below.</b>
-          </p>
-          <p>I don't know how long they'll maintain it.</p>
-          <p>
-            (They mentioned it's based on current inventory levels, and once
-            those units move, pricing returns to standard.)
-          </p>
-          <p>
-            <strong>Here's what you get:</strong>
-          </p>
+          <p>Most of the women who've had success with this device found it through hours of late-night research, comparing devices, reading reviews, doubting themselves.</p>
+          <p>They told me they wished they'd found it sooner—and wished they hadn't paid full price while they were still unsure.</p>
+          <p>So I arranged something I rarely do: a reduced price just for readers of this article.</p>
+          <p>Instead of the standard $199, you can get ReSculpt for $119.</p>
+          <p>That's $80 off, not because the device is discounted, but because Ovaliss agreed that women dealing with sleeping tissue shouldn't have to pay full price while they're still building belief that their bodies can respond again.</p>
+          <p>This pricing is only available through the link below, and I don't know how long they'll keep it. (They mentioned it's based on current stock levels, and once those units move, pricing goes back to standard.)</p>
+          <p>Here's what you get:</p>
           <ul>
-            <li>
-              ReSculpt device ($119 instead of $199)
-              <br />
-              <br />
-            </li>
-            <li>
-              Free shipping
-              <br />
-              <br />
-            </li>
-            <li>
-              100-day money-back guarantee (full reactivation trial period)
-            </li>
+            <li>ReSculpt device ($119 instead of $199)<br /><br /></li>
+            <li>Free shipping<br /><br /></li>
+            <li>100-day money-back guarantee (full trial period)<br /><br /></li>
             <li>Free ReSculpt Usage Guide</li>
           </ul>
         </TextSection>
