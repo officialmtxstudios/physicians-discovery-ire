@@ -590,49 +590,24 @@ export default function Index() {
         {/* My Recommendation */}
         <TextSection>
           <h2>My Recommendation</h2>
-          <p>
-            Here's what I want you to understand: You haven't failed. If you're
-            reading this article, you've likely been very disciplined,
-            consistent, and smart about your health.
-          </p>
-          <p>
-            And this isn't about invalidating all that effort you've put in…
-            it's about finally giving your arms the one thing they've been
-            missing.
-          </p>
-          <p>A way to participate in the work you're already doing.</p>
-          <p>
-            If your upper arms have been unresponsive despite your best
-            efforts—if you've felt that frustrating sense of "I'm doing
-            everything right, why isn't this area changing?"
-          </p>
-          <p>
-            <b>You don't need another arm exercise.</b>
-          </p>
-          <p>
-            <b>You don't need more dieting.</b>
-          </p>
-          <p>
-            <b>You don't need to "try harder."</b>
-          </p>
-          <p>You need to wake up tissue that went dormant.</p>
-          <p>
-            And that's exactly what ReSculpt is designed to do, all in the
-            comfort of your own home, on your own schedule.
-          </p>
-          <p>If it works, you'll know.</p>
-          <p>The area will start feeling different during arm flexion.</p>
+          <p>Here's what I want you to understand:</p>
+          <p>You haven't failed.</p>
+          <p>If you're reading this article, you've likely been very disciplined, consistent, and smart about your health.</p>
+          <p>And this isn't about saying all that effort you put in doesn't matter... it's about finally giving your arms the one thing they've been missing.</p>
+          <p>A way to take part in the work you're already doing.</p>
+          <p>If your upper arms have been unresponsive despite your best efforts—if you've felt that frustrating sense of "I'm doing everything right, why isn't this area changing?"</p>
+          <p>You don't need another arm exercise.</p>
+          <p>You don't need more dieting.</p>
+          <p>You don't need to "try harder."</p>
+          <p>You need to wake up tissue that went to sleep.</p>
+          <p>And that's exactly what ReSculpt is designed to do, all in the comfort of your own home, on your own schedule.</p>
+          <p>When it works, you'll know.</p>
+          <p>The area will start feeling different when you flex.</p>
           <p>Then you'll start seeing changes in how sleeves fit.</p>
-          <p>Then you'll see visible contour improvement.</p>
-          <p>
-            <b>If it doesn't work, you return it.</b>
-          </p>
+          <p>Then you'll see clear shape improvement.</p>
+          <p>If it doesn't work, you return it.</p>
           <p>No risk.</p>
-          <p>
-            But based on what I've seen in my office, and based on the mechanism
-            itself, I believe any woman dealing with post-hormonal upper arm
-            resistance will see meaningful improvement.
-          </p>
+          <p>But based on what I've seen in my office, and based on the science itself, I believe any woman dealing with post-hormonal upper arm resistance will see real improvement.</p>
           <p>Because the problem was never willpower.</p>
           <p>It was tissue that needed to be brought back online.</p>
         </TextSection>
