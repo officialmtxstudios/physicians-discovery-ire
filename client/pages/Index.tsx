@@ -240,30 +240,15 @@ export default function Index() {
           <h2>
             Why Clinics Charge $3,000+ For This (And Why You Don't Have To)
           </h2>
-          <p>Here's something most women don't realize:</p>
-          <p>
-            When you go to a professional body sculpting clinic and pay
-            $2,000-$4,000 per treatment area, you're not paying for them to
-            "work harder" on your fat or "burn more calories."
-          </p>
-          <p>
-            <b>You're paying for tissue re-signaling.</b>
-          </p>
-          <p>
-            Clinics understood the signaling problem years before anyone else.
-          </p>
-          <p>
-            They knew that stubborn areas weren't stubborn because of excess
-            fat, they were stubborn because the tissue had stopped responding to
-            metabolic signals.
-          </p>
-          <p>
-            <b>So they developed multi-layer stimulation technology</b>.
-          </p>
-          <p>
-            This technology could "wake up" dormant tissue by delivering precise
-            frequencies to fat, fascia, and muscle simultaneously.
-          </p>
+          <p>Here's something most women don't know:</p>
+          <p>When you go to a professional clinic and pay $2,000-$4,000 per area, you're not paying for them to "work harder" on your fat or "burn more calories."</p>
+          <p>You're paying for tissue re-signaling.</p>
+          <p>Clinics understood the signal problem years before anyone else.</p>
+          <p>They knew stubborn areas weren't stubborn because of too much fat.</p>
+          <p>They were stubborn because the tissue stopped responding to signals.</p>
+          <p>So they made multi-layer technology that could "wake up" sleeping tissue by sending exact signals to fat, tissue, and muscle all at once.</p>
+          <p>That's why clinics get results when everything else fails.</p>
+          <p>Not because they have magic machines—but because they finally fixed the actual problem.</p>
         </TextSection>
 
         {/* IMAGE 8 */}
