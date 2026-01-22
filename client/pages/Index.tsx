@@ -259,40 +259,10 @@ export default function Index() {
 
         {/* Clinic Cost Explanation */}
         <TextSection>
-          <p>That's why clinics get results when everything else fails.</p>
-          <p>
-            Not because they have magic machines—but because they finally
-            addressed the actual problem.
-          </p>
-          <p>
-            Ten years ago,{" "}
-            <b>
-              &nbsp;this level of multi-layer stimulation required clinic-grade
-              equipment
-            </b>
-            .
-          </p>
-          <p>
-            It was expensive, immobile, requiring trained operators and multiple
-            sessions at $500-$1,500 each.
-          </p>
-          <p>
-            But advances in tissue-penetration technology have changed
-            everything.
-          </p>
-          <p>
-            <b>
-              The same three-layer stimulation can now be delivered in a device
-              you control at home.
-            </b>
-          </p>
-          <p>The mechanism is identical.</p>
-          <p>The delivery system has simply become accessible.</p>
-          <p>ReSculpt doesn't "replicate" clinic technology.</p>
-          <p>
-            It uses the same core principle that makes clinics work, now refined
-            for safe, consistent at-home use.
-          </p>
+          <p>Ten years ago, this level of multi-layer work needed clinic equipment—expensive, huge, needing trained workers and many sessions at $500-$1,500 each.</p>
+          <p>But new technology now lets the same three-layer work happen in a device you control at home.</p>
+          <p>The science is the same. The delivery just became available to everyone.</p>
+          <p>ReSculpt doesn't "copy" clinic technology—it uses the same core idea that makes clinics work, now made for safe, regular at-home use.</p>
         </TextSection>
 
         {/* If This Really Worked Section */}
