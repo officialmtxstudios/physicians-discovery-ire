@@ -326,49 +326,18 @@ export default function Index() {
             Case Example #1: Linda, 62 – The "Bat Wings That Appeared Overnight"
           </h3>
           <p>Linda had always been slim and active.</p>
-          <p>
-            But around age 58, during menopause, her upper arms changed
-            seemingly overnight.
-          </p>
-          <p>
-            "I'd wave goodbye to someone and feel my arm keep moving," she told
-            me, mortified. "I started wearing cardigans in 35-degree heat just
-            to hide them."
-          </p>
-          <p>
-            She'd been doing arm exercises with light weights three times per
-            week. Her trainer kept telling her to "build more muscle."
-          </p>
-          <p>But the sagging skin and jiggle only seemed to get worse.</p>
-          <p>"I can feel the muscle underneath," she said, frustrated.</p>
-          <p>
-            "But there's all this loose, wobbly stuff on top that won't budge."
-          </p>
-          <p>
-            <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 4
-            days per week, while continuing her regular exercise routine.
-          </p>
-          <p>
-            <strong>Timeline:</strong>
-          </p>
+          <p>But around age 58, during menopause, her upper arms changed seemingly overnight.</p>
+          <p>"I'd wave goodbye to someone and feel my arm keep moving," she told me, embarrassed. "I started wearing cardigans in 35-degree heat just to hide them."</p>
+          <p>She'd been doing arm exercises with light weights three times a week.</p>
+          <p>Her trainer kept saying to "build more muscle."</p>
+          <p>But the sagging skin and jiggle only got worse.</p>
+          <p>"I can feel the muscle underneath," she said, frustrated. "But there's all this loose, wobbly stuff on top that won't move."</p>
+          <p>Her plan: Used ReSculpt 10 minutes per day, 4 days per week, while keeping her regular exercise routine.</p>
+          <p>Timeline:</p>
           <ul>
-            <li>
-              <strong>Week 2:</strong> "The area feels tighter when I flex my
-              arm."
-              <br />
-              <br />
-            </li>
-            <li>
-              <strong>Week 5:</strong> "My sister asked if I'd had surgery. I
-              told her no, but I could see what she meant. The hanging part is
-              less... droopy."
-              <br />
-              <br />
-            </li>
-            <li>
-              <strong>Week 8:</strong> "I measured. I'm down 2 inches around my
-              upper arms. Same weight. Same routine. Just... firmer."
-            </li>
+            <li>Week 2: "The area feels tighter when I flex my arm."<br /><br /></li>
+            <li>Week 5: "My sister asked if I'd had surgery. I said no, but I could see what she meant. The hanging part is less... droopy."<br /><br /></li>
+            <li>Week 8: "I measured. I'm down 2 inches around my upper arms. Same weight. Same routine. Just... firmer."</li>
           </ul>
         </TextSection>
 
