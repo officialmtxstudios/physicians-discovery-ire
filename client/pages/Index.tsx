@@ -133,32 +133,15 @@ export default function Index() {
         {/* Why Everything Failed Continued */}
         <TextSection>
           <h3>Arm exercises and tricep dips?</h3>
-          <p>They strengthen the muscle underneath.</p>
-          <p>
-            But if the fascia above it is rigid and blood flow is restricted,
-            you're essentially strengthening a muscle that's trapped under
-            dormant tissue.
-          </p>
-          <h3>Topical creams and treatments?</h3>
-          <p>
-            They can't penetrate deep enough to reach the fascial layer or
-            affect cellular energy.
-          </p>
-          <p>
-            They work on the surface while the problem exists three layers deep.
-          </p>
-          <h3>Hormonal therapy?</h3>
-          <p>
-            Even when we optimize hormone levels, if the tissue has already
-            entered dormancy, it won't spontaneously "wake up" just because
-            hormones improve.
-          </p>
-          <p>The damage is already done.</p>
-          <p>I realized we'd been treating the wrong problem entirely.</p>
-          <p>We weren't dealing with fat that needed to be burned.</p>
-          <p>
-            <b>We were dealing with tissue that needed to be reactivated.</b>
-          </p>
+          <p>They make the muscle stronger underneath—but if the tissue above it is stiff and blood flow is low, you're just making a muscle that's trapped under sleeping tissue.</p>
+          <h3>Creams and treatments?</h3>
+          <p>They can't go deep enough to reach the stuck tissue or affect how cells work. They work on the surface while the problem is three layers deep.</p>
+          <h3>Hormone therapy?</h3>
+          <p>Even when we fix hormone levels, if the tissue already shut down, it won't just "wake up" because hormones get better.</p>
+          <p>The damage is done.</p>
+          <p>I saw we'd been treating the wrong problem.</p>
+          <p>We weren't dealing with fat that needed to burn.</p>
+          <p>We were dealing with tissue that needed to wake up.</p>
         </TextSection>
 
         {/* IMAGE 5 */}
