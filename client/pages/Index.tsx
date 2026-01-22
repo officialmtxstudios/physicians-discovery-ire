@@ -205,80 +205,28 @@ export default function Index() {
         {/* Why This Works When Everything Else Failed */}
         <TextSection>
           <h2>Why This Works When Everything Else Failed</h2>
-          <p>
-            Here's what makes this different from every other device, cream, or
-            protocol:
-          </p>
-          <p>
-            <b>Most treatments work on ONE layer:</b>
-          </p>
+          <p>Here's what makes this different from every other device, cream, or plan:</p>
+          <p>Most treatments work on ONE layer:</p>
           <ul>
-            <li>
-              Creams work on skin (surface only)
-              <br />
-              <br />
-            </li>
-            <li>
-              Standard massage works on fascia (middle layer only)
-              <br />
-              <br />
-            </li>
+            <li>Creams work on skin (surface only)<br /><br /></li>
+            <li>Massage works on tissue (middle layer only)<br /><br /></li>
             <li>Exercise works on muscle (deep layer only)</li>
           </ul>
-          <p>
-            But <b>metabolic shutdown affects ALL THREE layers</b>
-            &nbsp;simultaneously.
-          </p>
-          <p>
-            The ReSculpt (the device Jennifer brought into my office that day)
-            uses Multi-Layer Stimulation Reset technology.
-          </p>
-          <p>
-            This system delivers layered vibrations designed to reach each
-            tissue type's specific resonance point.
-          </p>
+          <p>But the shutdown affects ALL THREE layers at the same time.</p>
+          <p>The ReSculpt (the device Jennifer brought that day) uses Multi-Layer Stimulation Reset technology.</p>
+          <p>It sends different signals to reach each tissue type.</p>
           <p>Think of it like this:</p>
-          <p>Your skin tissue responds to one frequency.</p>
-          <p>Your fascial tissue responds to another.</p>
-          <p>Your muscle tissue responds to a third.</p>
-          <p>
-            <b>Most devices use a single frequency</b> (usually targeting
-            surface-level skin or basic muscle contraction).
-          </p>
-          <p>That's why they feel nice but don't create lasting change.</p>
-          <p>
-            <b>ReSculpt delivers all three frequencies simultaneously.</b>
-          </p>
-          <p>
-            It penetrates through the skin layer, activates the fascial layer,
-            and engages the muscle layer—all in one treatment session.
-          </p>
-          <p>It's not vibrating fat away.</p>
-          <p>It's not "melting" anything.</p>
-          <p>
-            <b>
-              It's restoring metabolic communication to tissue that had gone
-              silent.
-            </b>
-          </p>
-          <p>
-            It's essentially doing what a trained physical therapist does with
-            manual fascial release and neuromuscular re-education.
-          </p>
-          <p>
-            But you control the frequency, duration, and consistency at home.
-          </p>
-          <p>
-            This is the same principle professional body sculpting clinics use.
-          </p>
-          <p>
-            They charge $1,500+ per area because they understood the signaling
-            problem years before anyone else.
-          </p>
-          <p>
-            But the technology has advanced enough that this level of
-            stimulation can now be recreated safely at home.
-          </p>
+          <p>Your skin responds to one signal.</p>
+          <p>Your tissue responds to another.</p>
+          <p>Your muscle responds to a third.</p>
+          <p>Most devices use just one signal (usually for surface skin or basic muscle). That's why they feel nice but don't create real change.</p>
+          <p>ReSculpt sends all three signals at once—going through the skin layer, waking up the tissue layer, and turning on the muscle layer in one session.</p>
+          <p>It's not shaking fat away. It's not "melting" anything.</p>
+          <p>It's restoring communication to tissue that went silent.</p>
+          <p>It's doing what a trained physical therapist does with hands—but you control it at home.</p>
+          <p>This is the same idea professional clinics use.</p>
+          <p>And they charge $1,500+ per area because they understood the signal problem years before anyone else.</p>
+          <p>But the technology got good enough that this level can now be done safely at home.</p>
         </TextSection>
 
         {/* IMAGE 7 */}
