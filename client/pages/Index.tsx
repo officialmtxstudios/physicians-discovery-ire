@@ -242,7 +242,7 @@ export default function Index() {
             These treatments needed expensive equipment and weekly clinic
             visits—physical therapy, special massage, professional devices.
           </p>
-          <p>The women I worked with couldn't afford €88 a week forever.</p>
+          <p>The women I worked with couldn't afford €100 a week forever.</p>
           <p>
             Then, six months ago, a woman came to my office and showed me
             something that changed everything.
@@ -350,7 +350,7 @@ export default function Index() {
           </p>
           <p>This is the same idea professional clinics use.</p>
           <p>
-            And they charge €885+ per area because they understood the signal
+            And they charge €900 per area because they understood the signal
             problem years before anyone else.
           </p>
           <p>
@@ -372,7 +372,7 @@ export default function Index() {
           </h2>
           <p>Here's something most women don't know:</p>
           <p>
-            When you go to a professional clinic and pay €1,180-€2,360 per area,
+            When you go to a professional clinic and pay €1,000-€2,500 per area,
             you're not paying for them to "work harder" on your fat or "burn
             more calories."
           </p>
@@ -407,7 +407,7 @@ export default function Index() {
           <p>
             Ten years ago, this level of multi-layer work needed clinic
             equipment—expensive, huge, needing trained workers and many sessions
-            at €295-€885 each.
+            at €300-€900 each.
           </p>
           <p>
             But new technology now lets the same three-layer work happen in a
@@ -463,7 +463,7 @@ export default function Index() {
             ReSculpt is the first at-home device I've seen that sends genuine
             three-layer signals, the same way clinics do.
           </p>
-          <p>Is it exactly like a €35,400 clinic machine? No.</p>
+          <p>Is it exactly like a €35,000 clinic machine? No.</p>
           <p>
             But does it deliver the core science (multi-layer tissue signaling)
             that makes clinic treatments work?
@@ -674,7 +674,7 @@ export default function Index() {
             about arm lift surgery.
           </p>
           <p>
-            "My surgeon said it would cost $12,000," she said, almost crying. "I
+            "My surgeon said it would cost €8,000," she said, almost crying. "I
             can't afford that. But I hate my arms so much I was thinking about
             it anyway."
           </p>
