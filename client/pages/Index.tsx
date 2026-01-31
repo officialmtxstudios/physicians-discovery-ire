@@ -746,7 +746,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton href="https://www.ovaliss.com/products/resculpt-aus-arm">
+              <CTAButton href="https://www.ovaliss.com/products/resculpt-arm">
                 Check ReSculpt Availability
               </CTAButton>
             </div>
@@ -997,7 +997,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton href="https://www.ovaliss.com/products/resculpt-aus-arm">
+              <CTAButton href="https://www.ovaliss.com/products/resculpt-arm">
                 Check ReSculpt Availability
               </CTAButton>
             </div>
@@ -1068,7 +1068,7 @@ export default function Index() {
         <div className="cta-section">
           <div className="cta-container">
             <div className="cta-group">
-              <CTAButton href="https://www.ovaliss.com/products/resculpt-aus-arm">
+              <CTAButton href="https://www.ovaliss.com/products/resculpt-arm">
                 Check ReSculpt Availability
               </CTAButton>
             </div>
@@ -1080,7 +1080,7 @@ export default function Index() {
 
       <StickyCTA
         triggerRef={monicaImageRef}
-        href="https://www.ovaliss.com/products/resculpt-aus-arm"
+        href="https://www.ovaliss.com/products/resculpt-arm"
       >
         Check ReSculpt Availability
       </StickyCTA>
