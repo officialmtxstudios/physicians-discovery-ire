@@ -242,7 +242,7 @@ export default function Index() {
             These treatments needed expensive equipment and weekly clinic
             visits—physical therapy, special massage, professional devices.
           </p>
-          <p>The women I worked with couldn't afford $150 a week forever.</p>
+          <p>The women I worked with couldn't afford €88 a week forever.</p>
           <p>
             Then, six months ago, a woman came to my office and showed me
             something that changed everything.
@@ -350,7 +350,7 @@ export default function Index() {
           </p>
           <p>This is the same idea professional clinics use.</p>
           <p>
-            And they charge $1,500+ per area because they understood the signal
+            And they charge €885+ per area because they understood the signal
             problem years before anyone else.
           </p>
           <p>
@@ -368,7 +368,7 @@ export default function Index() {
         {/* Why Clinics Charge So Much */}
         <TextSection>
           <h2>
-            Why Clinics Charge $3,000+ For This (And Why You Don't Have To)
+            Why Clinics Charge €1,800+ For This (And Why You Don't Have To)
           </h2>
           <p>Here's something most women don't know:</p>
           <p>
@@ -407,7 +407,7 @@ export default function Index() {
           <p>
             Ten years ago, this level of multi-layer work needed clinic
             equipment—expensive, huge, needing trained workers and many sessions
-            at $500-$1,500 each.
+            at €295-€885 each.
           </p>
           <p>
             But new technology now lets the same three-layer work happen in a
@@ -463,7 +463,7 @@ export default function Index() {
             ReSculpt is the first at-home device I've seen that sends genuine
             three-layer signals, the same way clinics do.
           </p>
-          <p>Is it exactly like a $60,000 clinic machine? No.</p>
+          <p>Is it exactly like a €35,400 clinic machine? No.</p>
           <p>
             But does it deliver the core science (multi-layer tissue signaling)
             that makes clinic treatments work?
@@ -959,9 +959,9 @@ export default function Index() {
             So I arranged something I rarely do: a reduced price just for
             readers of this article.
           </p>
-          <p>Instead of the standard $199, you can get ReSculpt for $119.</p>
+          <p>Instead of the standard €99, you can get ReSculpt for €69.</p>
           <p>
-            That's $80 off, not because the device is discounted, but because
+            That's €30 off, not because the device is discounted, but because
             Ovaliss agreed that women dealing with sleeping tissue shouldn't
             have to pay full price while they're still building belief that
             their bodies can respond again.
@@ -975,7 +975,7 @@ export default function Index() {
           <p>Here's what you get:</p>
           <ul>
             <li>
-              ReSculpt device ($119 instead of $199)
+              ReSculpt device (€69 instead of €99)
               <br />
               <br />
             </li>
