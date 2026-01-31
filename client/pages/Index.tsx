@@ -372,7 +372,7 @@ export default function Index() {
           </h2>
           <p>Here's something most women don't know:</p>
           <p>
-            When you go to a professional clinic and pay $2,000-$4,000 per area,
+            When you go to a professional clinic and pay €1,180-€2,360 per area,
             you're not paying for them to "work harder" on your fat or "burn
             more calories."
           </p>
