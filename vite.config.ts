@@ -26,14 +26,6 @@ function expressPlugin(): Plugin {
     name: "express-plugin",
     apply: "serve",
     configureServer(server) {
-      console.log("Setting up Express middleware...");
-      server.middlewares.use((req, res, next) => {
-        if (req.url === '/test-ping') {
-          res.end('test-pong');
-          return;
-        }
-        next();
-      });
       const app = createServer();
       server.middlewares.use(app);
     },
