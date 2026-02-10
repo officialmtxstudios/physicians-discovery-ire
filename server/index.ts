@@ -13,7 +13,6 @@ export function createServer() {
 
   // Example API routes
   app.get("/api/ping", (_req, res) => {
-    console.log("Ping hit!");
     const ping = process.env.PING_MESSAGE ?? "ping";
     res.json({ message: ping });
   });
