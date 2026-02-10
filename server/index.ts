@@ -4,7 +4,7 @@ import cors from "cors";
 import { handleDemo } from "./routes/demo";
 
 export function createServer() {
-  const app = express.Router();
+  const app = express();
 
   // Middleware
   app.use(cors());
@@ -18,6 +18,11 @@ export function createServer() {
   });
 
   app.get("/api/demo", handleDemo);
+
+  // Fallback to Vite dev server if no routes match
+  app.use((_req, _res, next) => {
+    next();
+  });
 
   return app;
 }
