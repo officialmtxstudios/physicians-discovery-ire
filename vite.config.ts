@@ -7,7 +7,7 @@ import { createServer } from "./server";
 export default defineConfig({
   server: {
     host: "0.0.0.0",
-    port: 8081,
+    port: 8080,
     fs: {
       allow: ["."], // Allow serving files from the project root
     },
