@@ -26,6 +26,7 @@ function expressPlugin(): Plugin {
     name: "express-plugin",
     apply: "serve",
     configureServer(server) {
+      console.log("Setting up Express middleware...");
       const app = createServer();
       server.middlewares.use(app);
     },
