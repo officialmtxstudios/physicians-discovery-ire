@@ -4,7 +4,7 @@ import cors from "cors";
 import { handleDemo } from "./routes/demo";
 
 export function createServer() {
-  const app = express();
+  const app = express.Router();
 
   // Middleware
   app.use(cors());
