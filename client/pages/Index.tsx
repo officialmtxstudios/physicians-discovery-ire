@@ -959,9 +959,9 @@ export default function Index() {
             So I arranged something I rarely do: a reduced price just for
             readers of this article.
           </p>
-          <p>Instead of the standard €99, you can get ReSculpt for €69.</p>
+          <p>Instead of the standard €167, you can get ReSculpt for €97.</p>
           <p>
-            That's €30 off, not because the device is discounted, but because
+            That's €70 off, not because the device is discounted, but because
             Ovaliss agreed that women dealing with sleeping tissue shouldn't
             have to pay full price while they're still building belief that
             their bodies can respond again.
@@ -975,7 +975,7 @@ export default function Index() {
           <p>Here's what you get:</p>
           <ul>
             <li>
-              ReSculpt device (€69 instead of €99)
+              ReSculpt device (€97 instead of €167)
               <br />
               <br />
             </li>
