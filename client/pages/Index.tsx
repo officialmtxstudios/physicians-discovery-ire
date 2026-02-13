@@ -47,19 +47,19 @@ export default function Index() {
           <p>They ate clean.</p>
           <p>They exercised every day.</p>
           <p>They tried every protocol I gave them.</p>
-          <p>And yet, their upper arms stayed soft and jiggly.</p>
+          <p>And yet, <strong>their upper arms stayed soft and jiggly.</strong></p>
           <p>
-            Month after month, they'd come back to my office. Frustrated.
-            Defeated… Sure they were failing somehow.
+            Month after month, they'd come back to my office. <strong>Frustrated.
+            Defeated… Sure they were failing somehow.</strong>
           </p>
           <p>
             I'd review their information. Check their hormones. Change their
             plans.
           </p>
           <p>But deep down, I was just as confused as they were.</p>
-          <p>I blamed menopause.</p>
-          <p>They blamed themselves.</p>
-          <p>We were both wrong.</p>
+          <p><strong>I blamed menopause.</strong></p>
+          <p><strong>They blamed themselves.</strong></p>
+          <p><strong>We were both wrong.</strong></p>
         </TextSection>
 
         {/* IMAGE 1 */}
@@ -75,14 +75,14 @@ export default function Index() {
           <p>A researcher showed findings that shocked me.</p>
           <p>
             "The upper arm area doesn't just store fat differently after
-            hormones change," she said. "It enters a state of metabolic
-            hibernation."
+            hormones change," she said. <strong>"It enters a state of metabolic
+            hibernation."</strong>
           </p>
           <p>Not slower. Not stubborn.</p>
-          <p>Complete shutdown.</p>
+          <p><strong>Complete shutdown.</strong></p>
           <p>
-            The tissue isn't ignoring your efforts. It literally can't hear the
-            signals anymore.
+            The tissue isn't ignoring your efforts. <strong>It literally can't hear the
+            signals anymore.</strong>
           </p>
         </TextSection>
 
@@ -107,18 +107,18 @@ export default function Index() {
           </p>
           <h3>1. Blood flow drops by up to 40%</h3>
           <p>
-            Think of it like a garden hose that got kinked—the water can barely
-            trickle through anymore.
+            <strong>Think of it like a garden hose that got kinked—the water can barely
+            trickle through anymore.</strong>
           </p>
           <p>Less blood means less oxygen and fewer nutrients.</p>
-          <p>The fat cells go to sleep.</p>
+          <p><strong>The fat cells go to sleep.</strong></p>
           <p>
             They stop responding to the signals that normally make them release
             the fat.
           </p>
           <h3>2. The tissue under your skin gets stiff and "stuck"</h3>
           <p>
-            It's like cling wrap that got crumpled and won't lay flat anymore—it
+            <strong>It's like cling wrap that got crumpled and won't lay flat anymore</strong>—it
             bunches up and traps everything underneath.
           </p>
           <p>
@@ -127,8 +127,8 @@ export default function Index() {
           </p>
           <p>This creates two problems:</p>
           <p>
-            First, it traps fluid, creating the jiggly, wobbly look of bat
-            wings.
+            First, it traps fluid, <strong>creating the jiggly, wobbly look of bat
+            wings.</strong>
           </p>
           <p>
             Second, it blocks the muscle underneath. So even when you do arm
@@ -136,7 +136,7 @@ export default function Index() {
           </p>
           <h3>3. Cell communication breaks down</h3>
           <p>
-            Like the phone lines got cut—or the Wi-Fi went out. The cells are
+            <strong>Like the phone lines got cut—or the Wi-Fi went out.</strong> The cells are
             there, they're just not getting the signal anymore.
           </p>
           <p>
@@ -156,12 +156,12 @@ export default function Index() {
           <p>You can eat less. You can do cardio. You can do arm exercises.</p>
           <p>But that area stays the same—because the tissue shut down.</p>
           <p>
-            Your body isn't ignoring your work. That area literally can't take
-            part anymore.
+            <strong>Your body isn't ignoring your work. That area literally can't take
+            part anymore.</strong>
           </p>
           <p>
-            Like a bear that went into hibernation—it's not dead, it's just
-            deeply asleep and not responding to anything.
+            <strong>Like a bear that went into hibernation—it's not dead, it's just
+            deeply asleep and not responding to anything.</strong>
           </p>
         </TextSection>
 
@@ -178,8 +178,8 @@ export default function Index() {
             up" tissue that's already shut down.
           </p>
           <p>
-            It's like shouting at someone wearing noise-canceling headphones—it
-            doesn't matter how loud you yell, they can't hear you.
+            <strong>It's like shouting at someone wearing noise-canceling headphones—it
+            doesn't matter how loud you yell, they can't hear you.</strong>
           </p>
           <p>
             You'll lose fat everywhere else while those upper arms stay the
@@ -214,8 +214,8 @@ export default function Index() {
           </p>
           <p>The damage is done.</p>
           <p>I saw we'd been treating the wrong problem.</p>
-          <p>We weren't dealing with fat that needed to burn.</p>
-          <p>We were dealing with tissue that needed to wake up.</p>
+          <p><strong>We weren't dealing with fat that needed to burn.</strong></p>
+          <p><strong>We were dealing with tissue that needed to wake up.</strong></p>
         </TextSection>
 
         {/* IMAGE 5 */}
@@ -228,14 +228,14 @@ export default function Index() {
         <TextSection>
           <h2>The Missing Link: Waking Up the Tissue</h2>
           <p>After that conference, I became obsessed with one question:</p>
-          <p>If tissue can shut down, can it be brought back?</p>
+          <p><strong>If tissue can shut down, can it be brought back?</strong></p>
           <p>
             I spent months reading research about tissue rehab. Most of it was
             about recovery after surgery or sports injuries.
           </p>
           <p>
-            But the answer was clear: certain types of stimulation could restore
-            cell communication and "wake up" sleeping tissue.
+            But the answer was clear: <strong>certain types of stimulation could restore
+            cell communication and "wake up" sleeping tissue.</strong>
           </p>
           <p>The problem?</p>
           <p>
@@ -266,7 +266,7 @@ export default function Index() {
           </p>
           <p>Then one day she walked into my office looking different.</p>
           <p>Not thinner.</p>
-          <p>But tighter. More toned.</p>
+          <p><strong>But tighter. More toned.</strong></p>
           <p>The loose, sagging look of her upper arms had clearly improved.</p>
           <p>"What did you do?" I asked right away.</p>
           <p>She pulled out a small rose-gold device from her bag.</p>
@@ -278,7 +278,7 @@ export default function Index() {
           <p>She'd been using it four times a week for eight weeks.</p>
           <p>Same diet. Same exercise. Same life.</p>
           <p>
-            "I started noticing changes around week three," she said. "The area
+            <strong>"I started noticing changes around week three,"</strong> she said. "The area
             felt tighter when I tensed my arm. In week six, I could see the
             difference."
           </p>
@@ -323,7 +323,7 @@ export default function Index() {
             </li>
             <li>Exercise works on muscle (deep layer only)</li>
           </ul>
-          <p>But the shutdown affects ALL THREE layers at the same time.</p>
+          <p><strong>But the shutdown affects ALL THREE layers at the same time.</strong></p>
           <p>
             The ReSculpt (the device Jennifer brought that day) uses Multi-Layer
             Stimulation Reset technology.
@@ -338,12 +338,12 @@ export default function Index() {
             muscle). That's why they feel nice but don't create real change.
           </p>
           <p>
-            ReSculpt sends all three signals at once—going through the skin
+            <strong>ReSculpt sends all three signals at once</strong>—going through the skin
             layer, waking up the tissue layer, and turning on the muscle layer
             in one session.
           </p>
           <p>It's not shaking fat away. It's not "melting" anything.</p>
-          <p>It's restoring communication to tissue that went silent.</p>
+          <p><strong>It's restoring communication to tissue that went silent.</strong></p>
           <p>
             It's doing what a trained physical therapist does with hands—but you
             control it at home.
@@ -376,7 +376,7 @@ export default function Index() {
             you're not paying for them to "work harder" on your fat or "burn
             more calories."
           </p>
-          <p>You're paying for tissue re-signaling.</p>
+          <p><strong>You're paying for tissue re-signaling.</strong></p>
           <p>Clinics understood the signal problem years before anyone else.</p>
           <p>
             They knew stubborn areas weren't stubborn because of too much fat.
@@ -391,8 +391,8 @@ export default function Index() {
           </p>
           <p>That's why clinics get results when everything else fails.</p>
           <p>
-            Not because they have magic machines—but because they finally fixed
-            the actual problem.
+            Not because they have magic machines—but because <strong>they finally fixed
+            the actual problem.</strong>
           </p>
         </TextSection>
 
@@ -414,8 +414,8 @@ export default function Index() {
             device you control at home.
           </p>
           <p>
-            The science is the same. The delivery just became available to
-            everyone.
+            <strong>The science is the same. The delivery just became available to
+            everyone.</strong>
           </p>
           <p>
             ReSculpt doesn't "copy" clinic technology—it uses the same core idea
@@ -561,8 +561,8 @@ export default function Index() {
               <br />
             </li>
             <li>
-              Week 8: "I measured. I'm down 2 inches around my upper arms. Same
-              weight. Same routine. Just... firmer."
+              Week 8: <strong>"I measured. I'm down 2 inches around my upper arms. Same
+              weight. Same routine. Just... firmer."</strong>
             </li>
           </ul>
         </TextSection>
@@ -624,9 +624,9 @@ export default function Index() {
               <br />
             </li>
             <li>
-              Week 10: "I wore a sleeveless dress to my granddaughter's birthday
+              Week 10: <strong>"I wore a sleeveless dress to my granddaughter's birthday
               party. First time in 15 years. I didn't think about my arms once
-              the whole day."
+              the whole day."</strong>
             </li>
           </ul>
         </TextSection>
@@ -737,8 +737,8 @@ export default function Index() {
             something to work with.
           </p>
           <p>
-            She improved another inch in her upper arms between weeks 8-12, with
-            no changes to diet or exercise.
+            <strong>She improved another inch in her upper arms between weeks 8-12, with
+            no changes to diet or exercise.</strong>
           </p>
         </TextSection>
 
@@ -791,7 +791,7 @@ export default function Index() {
             </li>
           </ul>
           <p>It doesn't burn fat or melt anything away.</p>
-          <p>It restarts the conversation that had gone quiet.</p>
+          <p><strong>It restarts the conversation that had gone quiet.</strong></p>
           <p>Once that communication comes back:</p>
           <ul>
             <li>
@@ -869,7 +869,7 @@ export default function Index() {
             </li>
           </ul>
           <p>...then the problem likely isn't your effort.</p>
-          <p>It's sleeping tissue.</p>
+          <p><strong>It's sleeping tissue.</strong></p>
           <p>And that's exactly what this technology fixes.</p>
           <p>You still need to keep healthy habits.</p>
           <p>You still need to be patient.</p>
@@ -910,7 +910,7 @@ export default function Index() {
             A 30-day guarantee wouldn't be enough time to see if your tissue
             wakes up.
           </p>
-          <p>100 days is a real trial period.</p>
+          <p><strong>100 days is a real trial period.</strong></p>
           <h3>3. It fixes the actual problem, not the symptom.</h3>
           <p>Most treatments try to burn fat or tighten skin.</p>
           <p>This wakes up tissue.</p>
@@ -959,9 +959,9 @@ export default function Index() {
             So I arranged something I rarely do: a reduced price just for
             readers of this article.
           </p>
-          <p>Instead of the standard €167, you can get ReSculpt for €97.</p>
+          <p><strong>Instead of the standard €167, you can get ReSculpt for €97.</strong></p>
           <p>
-            That's €70 off, not because the device is discounted, but because
+            <strong>That's €70 off</strong>, not because the device is discounted, but because
             Ovaliss agreed that women dealing with sleeping tissue shouldn't
             have to pay full price while they're still building belief that
             their bodies can respond again.
@@ -1008,15 +1008,15 @@ export default function Index() {
         <TextSection>
           <h2>My Recommendation</h2>
           <p>Here's what I want you to understand:</p>
-          <p>You haven't failed.</p>
+          <p><strong>You haven't failed.</strong></p>
           <p>
             If you're reading this article, you've likely been very disciplined,
             consistent, and smart about your health.
           </p>
           <p>
             And this isn't about saying all that effort you put in doesn't
-            matter... it's about finally giving your arms the one thing they've
-            been missing.
+            matter... <strong>it's about finally giving your arms the one thing they've
+            been missing.</strong>
           </p>
           <p>A way to take part in the work you're already doing.</p>
           <p>
@@ -1027,17 +1027,17 @@ export default function Index() {
           <p>You don't need another arm exercise.</p>
           <p>You don't need more dieting.</p>
           <p>You don't need to "try harder."</p>
-          <p>You need to wake up tissue that went to sleep.</p>
+          <p><strong>You need to wake up tissue that went to sleep.</strong></p>
           <p>
             And that's exactly what ReSculpt is designed to do, all in the
             comfort of your own home, on your own schedule.
           </p>
-          <p>When it works, you'll know.</p>
+          <p><strong>When it works, you'll know.</strong></p>
           <p>The area will start feeling different when you flex.</p>
           <p>Then you'll start seeing changes in how sleeves fit.</p>
           <p>Then you'll see clear shape improvement.</p>
           <p>If it doesn't work, you return it.</p>
-          <p>No risk.</p>
+          <p><strong>No risk.</strong></p>
           <p>
             But based on what I've seen in my office, and based on the science
             itself, I believe any woman dealing with post-hormonal upper arm
